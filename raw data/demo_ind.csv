@@ -1,0 +1,1566 @@
+hh_ids,m_ids,dem_i_male,dem_i_age_yrs,dem_i_age_5yrgrp,dem_i_age_workage,dem_i_relhead,dem_i_hhead,dem_i_marstat,dem_i_tribe,dem_i_children_tot,dem_i_children_inhh
+"KELDK01","56134392820800000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK01","56134390476100000","Male",30,"[30 - 35)",1,"Household head",1,"Married/living together","Kalenjin",2,0
+"KELDK01","56134392826900000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK01","56134390654900000","Female",24,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kalenjin",2,0
+"KELDK02","56134389772300000","Female",35,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Luhya",1,1
+"KELDK02","56134389503000000","Male",42,"[40 - 45)",1,"Household head",1,"Married/living together","Luhya",1,9
+"KELDK02","56134392211100000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDK08","56134410709700000","Female",20,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kalenjin",1,0
+"KELDK08","56134410715700000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDK08","56134410699600000","Male",26,"[25 - 30)",1,"Household head",1,"Married/living together","Luhya",1,0
+"KELDK09","56134329944600000","Female",27,"[25 - 30)",1,"Household head",1,"Never married/lived together","Kalenjin",1,0
+"KELDK09","56134330079300000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK10","56134337157200000","Female",26,"[25 - 30)",1,"Household head",1,"Never married/lived together","Kalenjin",,
+"KELDK12","65134436388200000","Female",23,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kalenjin",2,0
+"KELDK12","65134436576000000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK12","65134436657100000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK12","65134436228800000","Male",25,"[25 - 30)",1,"Household head",1,"Married/living together","Kalenjin",,
+"KELDK13","56134337464100000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK13","56134337440100000","Female",33,"[30 - 35)",1,"Household head",1,"Separated/divorced","Kalenjin",3,3
+"KELDK13","56134337480200000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK13","56134337455200000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK14","105136582880100000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK14","105136946020400000","Female",18,"[15 - 20)",1,"Aunt or uncle",0,"Never married/lived together","Kalenjin",,
+"KELDK14","105136582937000000","Female",23,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kalenjin",1,0
+"KELDK14","56134346314800000","Male",26,"[25 - 30)",1,"Household head",1,"Never married/lived together","Kalenjin",0,1
+"KELDK15","65134433094700000","Male",30,"[30 - 35)",1,"Household head",1,"Married/living together","Kalenjin",2,3
+"KELDK15","65134433107300000","Female",23,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kalenjin",2,3
+"KELDK15","65134433126000000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK15","65134433117500000","Male",18,"[15 - 20)",1,"Niece or nephew",0,"Never married/lived together","Kalenjin",,
+"KELDK15","65134433132000000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK16","65134426405900000","Male",33,"[30 - 35)",1,"Household head",1,"Married/living together","Kalenjin",2,3
+"KELDK16","65134426544600000","Female",9,"[5 - 10)",0,"Niece or nephew",0,"Never married/lived together","Kalenjin",,
+"KELDK16","65134426534400000","Female",30,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kalenjin",3,0
+"KELDK16","65134426561400000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK16","65134426552800000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK17","56134329370700000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK17","56134329400000000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK17","56134329382800000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK17","56134329375100000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK17","56134329392900000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK17","56134329355600000","Female",38,"[35 - 40)",1,"Household head",1,"Widowed","Kalenjin",6,7
+"KELDK17","56134329407000000","Female",19,"[15 - 20)",1,"Aunt or uncle",0,"Never married/lived together","Kalenjin",,
+"KELDK17","56134329365500000","Male",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK17","56134329387200000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK18","56134328720400000","Female",53,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Kalenjin",3,4
+"KELDK18","56134328845500000","Male",27,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK18","105136574775800000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK18","56134328862400000","Male",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK18","56134328868100000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK18","56134328473900000","Male",54,"[50 - 55)",1,"Household head",1,"Married/living together","Kalenjin",3,4
+"KELDK19","56134391548700000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK19","56134391399600000","Female",32,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kalenjin",4,0
+"KELDK19","56134391555000000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK19","105137579465700000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK19","56134388724900000","Male",41,"[40 - 45)",1,"Household head",1,"Married/living together","Kalenjin",4,0
+"KELDK19","56134391540900000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK19","56134391570800000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK20","65134442600100000","Male",46,"[45 - 50)",1,"Household head",1,"Married/living together","Kalenjin",4,0
+"KELDK20","65134442830700000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK20","65134442840400000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK20","65134442853800000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK20","65134442822400000","Female",34,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kalenjin",6,0
+"KELDK20","65134442848200000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK21","65134441430300000","Female",51,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Kalenjin",1,8
+"KELDK21","65134441440100000","Male",24,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK21","65134441454200000","Male",86,"[65+]",0,"Brother or sister",0,"Never married/lived together","Kalenjin",,
+"KELDK21","65134441422200000","Male",56,"[55 - 60)",1,"Household head",1,"Married/living together","Kalenjin",1,8
+"KELDK22","56134350017600000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK22","56134347076500000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDK22","56134347086100000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDK22","56134346796800000","Female",37,"[35 - 40)",1,"Household head",1,"Separated/divorced","Luhya",3,5
+"KELDK23","56134356498800000","Male",37,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",0,5
+"KELDK24","105137525539200000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDK24","56134380246800000","Female",34,"[30 - 35)",1,"Household head",1,"Married/living together","Kisii",0,4
+"KELDK24","105137525767700000","Male",40,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Luhya",3,0
+"KELDK24","105137525718300000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDK24","84136557722100000","Female",16,"[15 - 20)",1,,0,"Never married/lived together","Luhya",,
+"KELDK24","105136980992800000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDK24","105137525627100000","Male",8,"[5 - 10)",0,"Foster or adopted child",0,"Never married/lived together","Luhya",,
+"KELDK25","56134363834500000","Male",38,"[35 - 40)",1,"Household head",1,"Separated/divorced","Kalenjin",0,1
+"KELDK27","105136530871900000","Female",52,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Luhya",1,6
+"KELDK27","56134356844200000","Male",66,"[65+]",0,"Household head",1,"Married/living together","Luhya",0,4
+"KELDK27","105136531006400000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDK28","65134432619200000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK28","65134432627700000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK28","65134432603700000","Female",38,"[35 - 40)",1,"Husband or wife",0,"Never married/lived together","Kalenjin",3,3
+"KELDK28","65134432639500000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK28","65134432610100000","Male",40,"[40 - 45)",1,"Household head",1,"Married/living together","Kalenjin",3,3
+"KELDK29","56134356046300000","Male",32,"[30 - 35)",1,"Household head",1,"Married/living together","Luhya",1,1
+"KELDK29","56134356379000000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDK29","56134356200500000","Female",30,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Luhya",1,2
+"KELDK30","56134406066400000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK30","56134406071900000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK30","56134406057100000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK30","56134406111200000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK30","56134406040500000","Female",28,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kalenjin",5,0
+"KELDK30","56134406078800000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK30","56134406024800000","Male",35,"[35 - 40)",1,"Household head",1,"Married/living together","Kalenjin",5,0
+"KELDK31","65134435821000000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK31","65134435814400000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK31","65134435747500000","Female",25,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kalenjin",3,0
+"KELDK31","65134435804600000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK31","65134435629400000","Male",32,"[30 - 35)",1,"Household head",1,"Married/living together","Kalenjin",3,0
+"KELDK32","56134398775400000","Male",34,"[30 - 35)",1,"Household head",1,"Married/living together","Kalenjin",4,1
+"KELDK32","56134398832400000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK32","56134398826400000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK32","56134398810900000","Female",32,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kalenjin",4,1
+"KELDK32","56134398816500000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK32","56134398820500000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK33","56134371973100000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK33","56134372145900000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK33","56134372140200000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK33","56134371500500000","Female",54,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Luhya",5,1
+"KELDK33","56134364399500000","Male",45,"[45 - 50)",1,"Household head",1,"Married/living together","Kalenjin",5,1
+"KELDK33","56134371690700000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK33","56134371825500000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK36","56134382808300000","Female",32,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kalenjin",2,0
+"KELDK36","56134381592900000","Male",41,"[40 - 45)",1,"Household head",1,"Married/living together","Kalenjin",2,1
+"KELDK36","56134382828200000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK36","56134382848000000","Female",12,"[10 - 15)",0,"Foster or adopted child",0,"Never married/lived together","Kalenjin",,
+"KELDK36","56134382818300000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK37","65134432002400000","Female",24,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kalenjin",2,4
+"KELDK37","65134432206400000","Male",12,"[10 - 15)",0,"Aunt or uncle",0,"Never married/lived together","Kalenjin",,
+"KELDK37","65134432223800000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK37","65134432186900000","Male",29,"[25 - 30)",1,"Household head",1,"Married/living together","Kalenjin",2,4
+"KELDK37","65134432213000000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK37","65134432196800000","Male",13,"[10 - 15)",0,"Brother or sister",0,"Never married/lived together","Kalenjin",,
+"KELDK38","56134397318700000","Male",48,"[45 - 50)",1,"Household head",1,"Married/living together","Kalenjin",1,4
+"KELDK38","56134397332300000","Male",22,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDK38","56134397326000000","Female",43,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Kalenjin",1,4
+"KELDK40","56134380965500000","Female",33,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kalenjin",0,3
+"KELDK40","56134380729800000","Male",37,"[35 - 40)",1,"Household head",1,"Never married/lived together","Kalenjin",0,3
+"KELDL01","58134459163100000","Female",24,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kikuyu",,
+"KELDL01","58134463313300000","Male",24,"[20 - 25)",1,"Household head",1,"Married/living together","Kikuyu",,
+"KELDL01","50136852536300000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDL01","108137697856600000","Female",15,"[15 - 20)",1,"Brother or sister",0,"Never married/lived together","Kikuyu",,
+"KELDL02","58134383535800000","Female",26,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",2,0
+"KELDL02","58134383625000000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KELDL02","58134383397900000","Male",27,"[25 - 30)",1,"Household head",1,"Married/living together","Luo",2,0
+"KELDL02","58134384903200000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KELDL05","58134436548100000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDL05","58134436274600000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDL05","58134425834800000","Female",29,"[25 - 30)",1,"Household head",1,"Separated/divorced","Kikuyu",3,0
+"KELDL05","58134436461300000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDL09","58134425506600000","Female",26,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",,
+"KELDL09","58134425396600000","Male",52,"[50 - 55)",1,"Household head",1,"Married/living together","Luhya",0,7
+"KELDL10","58134381514300000","Male",24,"[20 - 25)",1,"Household head",1,"Married/living together","Kikuyu",2,0
+"KELDL10","58134381826000000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDL10","58134381695100000","Female",20,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kikuyu",2,0
+"KELDL10","58134381936700000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDL13","58134382551600000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDL13","58134382700600000","Female",20,"[20 - 25)",1,,0,"Never married/lived together","Kikuyu",,
+"KELDL13","58136007096400000","Male",37,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Kikuyu",1,0
+"KELDL13","58134382346100000","Female",35,"[35 - 40)",1,"Household head",1,"Married/living together","Kikuyu",1,0
+"KELDL15","58134458351300000","Male",19,"[15 - 20)",1,"Brother or sister in law",0,"Never married/lived together","Kikuyu",,
+"KELDL15","58134458246400000","Female",17,"[15 - 20)",1,"Brother or sister in law",0,"Never married/lived together","Kikuyu",,
+"KELDL15","58134458523200000","Female",13,"[10 - 15)",0,"Brother or sister in law",0,"Never married/lived together","Kikuyu",,
+"KELDL15","58134458005600000","Male",36,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",2,1
+"KELDL15","58134458139200000","Female",26,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kikuyu",1,1
+"KELDL15","58134461931900000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDL15","58134458424900000","Female",15,"[15 - 20)",1,"Brother or sister in law",0,"Never married/lived together","Kikuyu",,
+"KELDL15","50136860192300000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,0
+"KELDS01","58134441503200000","Male",28,"[25 - 30)",1,,0,"Separated/divorced","Kalenjin",,
+"KELDS01","58134441196400000","Female",49,"[45 - 50)",1,"Household head",1,"Never married/lived together","Kalenjin",2,2
+"KELDS01","108136868079500000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Separated/divorced","Kalenjin",0,0
+"KELDS01","58134441567700000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS01","108136868146400000","Male",2,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kalenjin",,
+"KELDS01","108137000113800000","Male",10,"[10 - 15)",0,"Friend or neighbor",0,"Never married/lived together","Kalenjin",,
+"KELDS02","58134389960000000","Male",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS02","58134397858000000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS02","58134390138500000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS02","58134390041200000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS02","58134389681800000","Male",49,"[45 - 50)",1,"Household head",1,"Widowed","Luhya",6,1
+"KELDS02","58134389868000000","Male",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS02","58134397778000000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS03","50136902584500000","Female",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kalenjin",,0
+"KELDS03","50136887191900000","Female",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",0,0
+"KELDS03","58134376713400000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS03","58134364412400000","Female",49,"[45 - 50)",1,"Husband or wife",0,"Married/living together","Kalenjin",3,4
+"KELDS03","58134376789800000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS03","58134364537300000","Male",29,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",0,0
+"KELDS03","50136887042200000","Female",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Kalenjin",,0
+"KELDS03","58134364145800000","Male",55,"[55 - 60)",1,"Household head",1,"Married/living together","Kalenjin",3,4
+"KELDS03","58134375961000000","Male",24,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS05","58134364974400000","Female",49,"[45 - 50)",1,"Husband or wife",0,"Married/living together","Luhya",1,4
+"KELDS05","58134365374400000","Female",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KELDS05","58134365094600000","Female",29,"[25 - 30)",1,"Son or daughter",0,"Separated/divorced","Luhya",4,0
+"KELDS05","50136878907900000","Female",24,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,0
+"KELDS05","58135341729000000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KELDS05","58134365348300000","Male",6,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KELDS05","58134365434500000","Male",6,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KELDS05","58134365402200000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KELDS05","58134365288000000","Female",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KELDS05","58134364754000000","Male",59,"[55 - 60)",1,"Household head",1,"Married/living together","Luhya",1,4
+"KELDS05","58135341695900000","Female",23,"[20 - 25)",1,"Son or daughter in law",0,"Never married/lived together","Luhya",,
+"KELDS06","108136907329600000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kalenjin",,
+"KELDS06","58134397126200000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS06","58134390845600000","Male",26,"[25 - 30)",1,"Son or daughter",0,"Separated/divorced","Kalenjin",0,0
+"KELDS06","58134397200000000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS06","58134390594300000","Female",29,"[25 - 30)",1,"Son or daughter",0,"Married/living together","Kalenjin",2,0
+"KELDS06","108136904978700000","Female",22,"[20 - 25)",1,"Son or daughter in law",0,"Married/living together","Kalenjin",1,0
+"KELDS06","58134390510800000","Female",49,"[45 - 50)",1,"Husband or wife",0,"Married/living together","Kalenjin",9,0
+"KELDS06","58134396736300000","Male",24,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS06","58134396852300000","Female",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS06","58134397370200000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS06","58134396986800000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS06","58134390339800000","Male",66,"[65+]",0,"Household head",1,"Married/living together","Kalenjin",9,5
+"KELDS06","58134396918800000","Female",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS06","58134397613800000","Female",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kalenjin",,
+"KELDS06","58134397464900000","Female",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Kalenjin",,
+"KELDS07","58134399852000000","Female",37,"[35 - 40)",1,"Household head",1,"Never married/lived together","Luo",3,1
+"KELDS07","58134401806900000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KELDS07","58134402068100000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KELDS07","58134401969100000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KELDS09","108137146610100000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,0
+"KELDS09","58134408426400000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS09","58134408186100000","Female",31,"[30 - 35)",1,"Household head",1,"Separated/divorced","Kalenjin",2,1
+"KELDS09","58134408335700000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS10","58134402196900000","Male",14,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Kikuyu",,
+"KELDS10","58134402315200000","Male",13,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Kikuyu",,
+"KELDS10","58134402450300000","Female",9,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Kikuyu",,
+"KELDS10","58134399523200000","Female",79,"[65+]",0,"Household head",1,"Widowed","Kikuyu",1,6
+"KELDS11","108136886324700000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",0,0
+"KELDS11","58134407086100000","Female",23,"[20 - 25)",1,"Household head",1,"Separated/divorced","Luhya",0,1
+"KELDS12","58134434450500000","Female",26,"[25 - 30)",1,"Household head",1,"Separated/divorced","Kalenjin",2,0
+"KELDS12","58134439993700000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDS12","58134439981000000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDS14","58134372720800000","Female",38,"[35 - 40)",1,"Household head",1,"Widowed","Kalenjin",0,0
+"KELDS15","58134367843500000","Male",10,"[10 - 15)",0,"Foster or adopted child",0,"Never married/lived together","Kalenjin",,
+"KELDS15","58134363374100000","Male",43,"[40 - 45)",1,"Household head",1,"Married/living together","Kalenjin",4,1
+"KELDS15","58134363999700000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS15","58134363781800000","Female",33,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kalenjin",4,1
+"KELDS15","58134363934000000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS15","58134367653800000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS15","58134367746600000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS16","58134437258500000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDS16","58134437099700000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDS16","58134437196300000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDS16","58134436874000000","Female",30,"[30 - 35)",1,"Household head",1,"Widowed","Luhya",4,0
+"KELDS16","58134437001800000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDS17","58134439655500000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS17","58134439772300000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS17","58134433485700000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS17","58134433254800000","Male",44,"[40 - 45)",1,"Household head",1,"Married/living together","Kalenjin",4,0
+"KELDS17","58134433388100000","Female",35,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Kalenjin",4,0
+"KELDS17","58134439855700000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS18","58134441026900000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS18","58134440722400000","Female",24,"[20 - 25)",1,"Household head",1,"Married/living together","Kalenjin",2,0
+"KELDS18","108136992014300000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS18","108136992020400000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS18","58134440919300000","Female",15,"[15 - 20)",1,"Brother or sister",0,"Never married/lived together","Kalenjin",,
+"KELDS19","58134407735600000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",4,0
+"KELDS19","58134407652600000","Female",36,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Kalenjin",4,0
+"KELDS19","58134407860500000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KELDS19","58134407511100000","Male",38,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",4,0
+"KELDS19","58134407952600000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KELDS19","58134408031200000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KELDS20","58134399068700000","Female",28,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kalenjin",3,0
+"KELDS20","58134398914700000","Male",34,"[30 - 35)",1,"Household head",1,"Married/living together","Kalenjin",3,0
+"KELDS20","58134399151500000","Female",9,"[5 - 10)",0,"Step son or step daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS20","58134399340500000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS20","58134399276600000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kalenjin",,
+"KELDS23","58134449531200000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS23","108136932369600000","Male",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS23","58134434718200000","Female",49,"[45 - 50)",1,"Household head",1,"Separated/divorced","Luhya",1,3
+"KELDS24","58134391695200000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDS24","58134391590500000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDS24","58134391277200000","Male",35,"[35 - 40)",1,"Household head",1,"Married/living together","Kikuyu",3,0
+"KELDS24","58134391765900000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KELDS24","58134391478200000","Female",28,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kikuyu",3,0
+"KELDS26","58134466070900000","Male",49,"[45 - 50)",1,"Household head",1,"Married/living together","Luhya",3,1
+"KELDS26","58134466289300000","Male",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS26","58134466407500000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS26","58134466496200000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS26","58134466180200000","Female",40,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Luhya",3,1
+"KELDS27","58134437581200000","Female",42,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Kalenjin",0,4
+"KELDS27","58134437425900000","Male",49,"[45 - 50)",1,"Household head",1,"Married/living together","Luhya",0,4
+"KELDS28","58134445155500000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",1,0
+"KELDS28","58135965540500000","Male",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KELDS28","58134445363100000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KELDS28","58134444870500000","Female",59,"[55 - 60)",1,"Household head",1,"Separated/divorced","Luhya",1,4
+"KMAKE01","63134425028500000","Female",13,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKE01","63134425089200000","Female",2,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKE01","63134424828000000","Male",54,"[50 - 55)",1,"Household head",1,"Married/living together","Kamba",2,5
+"KMAKE01","63134424910300000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE01","63134424970400000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE01","63134424674400000","Female",54,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Kamba",2,5
+"KMAKE03","63134450468300000","Female",52,"[50 - 55)",1,"Household head",1,"Married/living together","Kamba",1,4
+"KMAKE03","63134450675800000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE03","63134450643400000","Female",89,"[65+]",0,"Mother or farther in law",0,"Married/living together","Kamba",,
+"KMAKE03","63134450586000000","Male",92,"[65+]",0,"Mother or farther in law",0,"Married/living together","Kamba",0,7
+"KMAKE05","63134450172800000","Female",4,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKE05","63134449911400000","Female",29,"[25 - 30)",1,"Son or daughter in law",0,"Married/living together","Kamba",3,0
+"KMAKE05","63134449972000000","Male",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE05","63134450127100000","Male",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKE05","63134450042000000","Male",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKE05","63134449728600000","Female",49,"[45 - 50)",1,"Household head",1,"Married/living together","Kamba",1,4
+"KMAKE05","63134450083000000","Female",9,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKE05","63134449858800000","Male",88,"[65+]",0,"Mother or farther in law",0,"Married/living together","Kamba",0,6
+"KMAKE06","63134425702500000","Female",43,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Kamba",3,1
+"KMAKE06","63134426053700000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE06","63134426010400000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE06","63134425969100000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE06","63134425886300000","Male",52,"[50 - 55)",1,"Household head",1,"Married/living together","Kamba",3,1
+"KMAKE07","63134363237200000","Female",38,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Kamba",4,1
+"KMAKE07","63134363390100000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE07","63134363484900000","Female",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE07","63134363453400000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE07","63134362976500000","Male",55,"[55 - 60)",1,"Household head",1,"Married/living together","Kamba",4,1
+"KMAKE07","63134363352000000","Male",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE08","63134365203900000","Male",35,"[35 - 40)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE08","63134365575800000","Female",30,"[30 - 35)",1,"Son or daughter",0,"Never married/lived together","Kamba",1,0
+"KMAKE08","63134364973600000","Female",63,"[60 - 65)",1,"Household head",1,"Widowed","Kamba",2,3
+"KMAKE08","63134365728700000","Male",6,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKE09","63134390012700000","Male",61,"[60 - 65)",1,"Household head",1,"Married/living together","Kamba",2,2
+"KMAKE09","63134390242800000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKE09","63134390200000000","Male",25,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE09","63134390141900000","Female",22,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",1,0
+"KMAKE09","63134389911000000","Female",47,"[45 - 50)",1,"Husband or wife",0,"Married/living together","Kamba",2,2
+"KMAKE10","63134373723800000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE10","63134373467400000","Female",30,"[30 - 35)",1,"Household head",1,"Married/living together","Kamba",3,0
+"KMAKE10","63134373754600000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE10","63134373665400000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE11","63134399377500000","Female",36,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",4,1
+"KMAKE11","63134399686000000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE11","63134399652100000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE11","111137355987300000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE11","63134399619700000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE11","63134399554200000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE12","63134381438500000","Male",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE12","63134381512200000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE12","63134381663300000","Female",40,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Kamba",5,2
+"KMAKE12","63134381158900000","Male",54,"[50 - 55)",1,"Household head",1,"Married/living together","Kamba",5,2
+"KMAKE12","63134381557600000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE12","63134381632000000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE12","63134381601200000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE13","63134441573500000","Male",40,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",2,0
+"KMAKE13","63134441217200000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE13","63134441322700000","Male",13,"[10 - 15)",0,"Foster or adopted child",0,"Never married/lived together","Kamba",,
+"KMAKE13","63134441099900000","Female",29,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kamba",2,0
+"KMAKE13","63134441262900000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE14","63134390408500000","Female",42,"[40 - 45)",1,"Son or daughter",0,"Separated/divorced","Kamba",0,3
+"KMAKE14","63134390597700000","Female",71,"[65+]",0,"Household head",1,"Widowed","Kamba",1,2
+"KMAKE15","63134347408300000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE15","63134347468700000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE15","63134347525300000","Female",56,"[55 - 60)",1,,0,"Married/living together","Kamba",0,4
+"KMAKE15","63134347224900000","Female",34,"[30 - 35)",1,"Household head",1,"Married/living together","Kamba",2,0
+"KMAKE16","63134346376200000","Female",39,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",3,0
+"KMAKE16","63134346560800000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE16","63134346691900000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE16","63134346650300000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE17","63134372678500000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE17","63134372552000000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE17","63134372285300000","Female",40,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",4,1
+"KMAKE17","63134372610400000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE17","63134372479200000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE18","63134373091900000","Male",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE18","63134373011100000","Female",84,"[65+]",0,"Parent (mother or father)",0,"Widowed","Kamba",1,3
+"KMAKE18","63134372777000000","Female",50,"[50 - 55)",1,"Household head",1,"Never married/lived together","Kamba",1,1
+"KMAKE20","63134442641500000","Female",50,"[50 - 55)",1,"Household head",1,"Widowed","Kamba",2,5
+"KMAKE20","63134442931000000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE20","63134442821600000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE21","63134382825300000","Female",39,"[35 - 40)",1,"Household head",1,"Widowed","Kamba",2,3
+"KMAKE21","63134383044900000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE21","63134382995300000","Female",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE23","63134432906200000","Male",35,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",2,0
+"KMAKE23","63134433230000000","Female",72,"[65+]",0,"Parent (mother or father)",0,"Widowed","Kamba",1,6
+"KMAKE23","63134433165200000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE23","63134433300700000","Female",14,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Kamba",,
+"KMAKE23","63134433360400000","Female",27,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kamba",2,0
+"KMAKE23","63134433127200000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE25","63134458544600000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE25","63134458592800000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE25","63134458362700000","Female",30,"[30 - 35)",1,"Household head",1,"Married/living together","Kamba",3,0
+"KMAKE25","63134458477800000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE27","63134417148900000","Male",32,"[30 - 35)",1,"Household head",1,"Married/living together","Kamba",2,0
+"KMAKE27","63134417541200000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE27","63134417498200000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE27","63134417371400000","Female",31,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kamba",2,0
+"KMAKE28","63134400138100000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE28","63134399829300000","Female",29,"[25 - 30)",1,"Household head",1,"Married/living together","Kamba",3,0
+"KMAKE28","63134400096200000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE28","63134400050400000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE29","63134364016200000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE29","63134363763200000","Female",29,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kamba",4,0
+"KMAKE29","63134363928300000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE29","63134363865800000","Male",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE29","63134363615400000","Male",36,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",4,0
+"KMAKE29","63134363973200000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE30","63134382595600000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE30","63134382298300000","Male",73,"[65+]",0,"Mother or farther in law",0,"Widowed","Kamba",0,5
+"KMAKE30","63134382563500000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE30","63134382172900000","Female",40,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",4,0
+"KMAKE30","63134382437700000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE30","63134382530200000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE32","63134380563500000","Female",44,"[40 - 45)",1,"Household head",1,"Widowed","Kamba",6,1
+"KMAKE32","63134380960800000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE32","63134380715900000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE32","63134380833100000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE32","63134380927800000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE32","63134380895600000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE32","63134380993100000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE33","63134398303000000","Male",36,"[35 - 40)",1,"Household head",1,"Never married/lived together","Kamba",,
+"KMAKE33","63134398497100000","Male",28,"[25 - 30)",1,"Brother or sister",0,"Never married/lived together","Kamba",,
+"KMAKE33","63134398581600000","Male",19,"[15 - 20)",1,"Brother or sister",0,"Never married/lived together","Kamba",,
+"KMAKE34","63134364734600000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE34","63134364423800000","Female",42,"[40 - 45)",1,"Household head",1,"Never married/lived together","Kamba",2,0
+"KMAKE34","63134364606500000","Female",72,"[65+]",0,"Parent (mother or father)",0,"Widowed","Kamba",1,0
+"KMAKE34","63134364693800000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE35","63134339322200000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE35","63134338838900000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE35","63134339047400000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE35","63134338950500000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE35","63134339142600000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE35","63134338421700000","Female",38,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",9,0
+"KMAKE35","63134338685500000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE35","63134339375600000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE35","63134339235300000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE35","63134339444200000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE36","63134459480400000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE36","63134459383200000","Male",37,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",2,0
+"KMAKE36","63134459535000000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE36","63134459271600000","Female",36,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Kamba",2,0
+"KMAKE37","63134459963700000","Male",30,"[30 - 35)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKE37","63134460036800000","Female",20,"[20 - 25)",1,"Son or daughter in law",0,"Married/living together","Kamba",1,0
+"KMAKE37","63134460075000000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKE37","63134459785700000","Female",54,"[50 - 55)",1,"Household head",1,"Widowed","Kamba",1,4
+"KMAKL01","65137990548300000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL01","65134328986000000","Female",25,"[25 - 30)",1,"Household head",1,"Married/living together","Kamba",4,0
+"KMAKL01","65134329312700000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL01","65134329513600000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL01","65134329605000000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL01","65134329424000000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL02","65134330096200000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",3,0
+"KMAKL02","65134330009200000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL02","65134571041600000","Male",29,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kamba",3,0
+"KMAKL02","65134330169500000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL02","65134329746600000","Female",28,"[25 - 30)",1,"Household head",1,"Married/living together","Kamba",0,0
+"KMAKL05","65134436037500000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL05","65134435988200000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL05","65134434107500000","Male",32,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kamba",3,0
+"KMAKL05","65134436089400000","Male",62,"[60 - 65)",1,"Mother or farther in law",0,"Married/living together","Kamba",1,2
+"KMAKL05","65134433932100000","Female",30,"[30 - 35)",1,"Household head",1,"Married/living together","Kamba",3,0
+"KMAKL05","65134435667400000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL05","65134436146900000","Female",52,"[50 - 55)",1,"Mother or farther in law",0,"Married/living together","Kamba",1,2
+"KMAKL06","65134392001300000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL06","65134391909400000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL06","65134392058500000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL06","65134392146600000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL06","65134389278900000","Female",39,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",4,0
+"KMAKL06","65134389522800000","Male",40,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Kamba",4,0
+"KMAKL07","65134372671600000","Female",65,"[65+]",0,"Household head",1,"Widowed","Kamba",0,9
+"KMAKL08","65134384006800000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL08","65134384465700000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL08","65134380761700000","Female",45,"[45 - 50)",1,"Household head",1,"Married/living together","Kamba",5,3
+"KMAKL08","65134384114000000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL08","65134381045000000","Male",54,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Kamba",5,3
+"KMAKL09","65134384787400000","Male",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL09","65134381254800000","Female",59,"[55 - 60)",1,"Household head",1,"Married/living together","Kamba",1,6
+"KMAKL09","65134381446700000","Male",69,"[65+]",0,"Husband or wife",0,"Married/living together","Kamba",1,6
+"KMAKL09","65134384595500000","Female",9,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL10","65134383884900000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL10","65134383674700000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL10","65134381620800000","Female",38,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",6,1
+"KMAKL10","65134382764500000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL10","65134383601100000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL10","65134383825600000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL10","65134383761600000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL10","65134381874200000","Male",41,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Kamba",6,1
+"KMAKL11","65134435448300000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL11","65134435327800000","Male",22,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL11","65134433013100000","Male",60,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Kamba",2,5
+"KMAKL11","65134432872600000","Female",55,"[55 - 60)",1,"Household head",1,"Married/living together","Kamba",2,5
+"KMAKL12","65134392398100000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL12","65134389879300000","Male",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL12","65134510140100000","Female",24,"[20 - 25)",1,"Son or daughter in law",0,"Married/living together","Kamba",1,0
+"KMAKL12","65134389716400000","Female",52,"[50 - 55)",1,"Household head",1,"Married/living together","Kamba",1,3
+"KMAKL12","65134392205500000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL12","65134392329600000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL13","65134365195600000","Female",40,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",1,3
+"KMAKL13","65134367186800000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL15","65134426910500000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL15","65134426843800000","Male",32,"[30 - 35)",1,"Cousin",0,"Never married/lived together","Kamba",,
+"KMAKL15","65134427093200000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Married/living together","Kamba",,
+"KMAKL15","65134426766200000","Female",72,"[65+]",0,"Mother or farther in law",0,"Widowed","Kamba",,
+"KMAKL15","65134427158000000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL15","65134424870700000","Female",40,"[40 - 45)",1,"Household head",1,"Widowed","Kamba",3,2
+"KMAKL17","65134426577800000","Female",14,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Kamba",,
+"KMAKL17","65134426528200000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL17","65134426352800000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL17","65134423982500000","Female",31,"[30 - 35)",1,"Household head",1,"Married/living together","Kamba",3,0
+"KMAKL17","65134426437700000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL17","65134426095300000","Male",7,"[5 - 10)",0,"Niece or nephew",0,"Never married/lived together","Kamba",,
+"KMAKL17","65134426212200000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL17","65134426304000000","Female",1,"[0 - 5)",0,"Niece or nephew",0,"Never married/lived together","Kamba",,
+"KMAKL17","65134423801800000","Female",31,"[30 - 35)",1,"Brother or sister in law",0,"Married/living together","Kamba",3,0
+"KMAKL18","65134443561800000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL18","65134441084800000","Male",75,"[65+]",0,"Parent (mother or father)",0,"Married/living together","Kamba",1,7
+"KMAKL18","65134440910900000","Female",37,"[35 - 40)",1,"Household head",1,"Separated/divorced","Kamba",5,0
+"KMAKL18","65134443635600000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL18","65134443703500000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL18","65134441182100000","Female",60,"[60 - 65)",1,"Parent (mother or father)",0,"Married/living together","Kamba",1,7
+"KMAKL19","65134441893500000","Male",60,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Kamba",1,6
+"KMAKL19","65134448749100000","Male",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL19","65134449259300000","Male",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL19","65134449181300000","Male",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL19","65134448829700000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL19","65134441978400000","Female",24,"[20 - 25)",1,"Step son or step daughter",0,"Married/living together","Kamba",3,0
+"KMAKL19","65134449386500000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL19","65134448654700000","Female",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",1,0
+"KMAKL19","65134441763900000","Female",56,"[55 - 60)",1,"Household head",1,"Married/living together","Kamba",1,6
+"KMAKL21","65134433556000000","Female",45,"[45 - 50)",1,"Household head",1,"Married/living together","Kamba",1,1
+"KMAKL21","65134436270300000","Male",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL22","65134370629200000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL22","65134370746200000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL22","65134367297400000","Male",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL22","65134370561200000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL22","65134370819900000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL22","65134370889800000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL22","65134363948700000","Female",33,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kamba",7,0
+"KMAKL22","65134363634100000","Male",41,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",7,0
+"KMAKL22","65134370457000000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL23","65134374660300000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL23","65134364671700000","Male",43,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",4,0
+"KMAKL23","65134374588800000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL23","65134364863900000","Female",31,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kamba",4,0
+"KMAKL23","65134374509600000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL23","65134371761500000","Female",75,"[65+]",0,"Parent (mother or father)",0,"Widowed","Kamba",1,6
+"KMAKL23","65134374724400000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL24","65138001339500000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL24","65134371300100000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL24","65134370986600000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL24","65134364392000000","Female",37,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Kamba",6,0
+"KMAKL24","65134371619400000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL24","65134371499900000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL24","65134364190900000","Male",38,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",6,0
+"KMAKL24","65134371560500000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL24","65134371372600000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL25","65134379561700000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",0,
+"KMAKL25","65134379343800000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL25","65134379507000000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL25","65134373335800000","Female",33,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kamba",5,0
+"KMAKL25","65134379419000000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL25","65134379255200000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL25","65134373478500000","Female",65,"[65+]",0,"Parent (mother or father)",0,"Married/living together","Kamba",1,4
+"KMAKL25","65134373122600000","Male",47,"[45 - 50)",1,"Household head",1,"Married/living together","Kamba",5,0
+"KMAKL27","65134424524500000","Female",44,"[40 - 45)",1,"Household head",1,"Separated/divorced","Kamba",4,1
+"KMAKL27","65134427667700000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL27","65134427841700000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL27","65134427552400000","Female",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL27","65134427729600000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL28","65134433289200000","Female",25,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Kamba",1,0
+"KMAKL28","65134439708200000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL28","65134439800300000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL28","65134439962600000","Female",5,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL28","65134433150300000","Female",44,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",5,1
+"KMAKL28","65134439874000000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL28","65134439653200000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL29","65134442371600000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL29","65134444187100000","Male",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL29","65134444446500000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL29","65134442158600000","Female",51,"[50 - 55)",1,"Household head",1,"Married/living together","Kamba",5,6
+"KMAKL29","65134444618000000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL29","65134444529600000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL32","65134392624700000","Male",4,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL32","65134392501900000","Male",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL32","65134390587800000","Female",55,"[55 - 60)",1,"Household head",1,"Married/living together","Kamba",2,3
+"KMAKL32","65134392730600000","Female",4,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMAKL32","65134390776000000","Female",20,"[20 - 25)",1,"Son or daughter in law",0,"Never married/lived together","Kamba",,
+"KMAKL32","65136066653500000","Male",61,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Kamba",2,3
+"KMAKL33","65134441530300000","Female",30,"[30 - 35)",1,"Household head",1,"Married/living together","Kamba",3,0
+"KMAKL33","65134443854200000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL33","65134444004600000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL33","65134443933400000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL34","65134382575700000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL34","65134382641900000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL34","65134382150500000","Female",40,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",3,1
+"KMAKL34","65134382364700000","Male",41,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Kamba",3,1
+"KMAKL34","65134382449000000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",1,0
+"KMAKL36","65134430931600000","Male",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL36","65134431245900000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL36","65134431118300000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL36","65134431066600000","Male",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL36","65134431196600000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL36","65134431346600000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL36","65134424268800000","Female",52,"[50 - 55)",1,"Household head",1,"Married/living together","Kamba",7,3
+"KMAKL36","65134431400000000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL36","65134424390400000","Male",47,"[45 - 50)",1,"Husband or wife",0,"Married/living together","Kamba",7,3
+"KMAKL37","65134396357100000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL37","65134396494300000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL37","65134396420500000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL37","65134396219600000","Male",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL37","65134391087600000","Female",39,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",4,0
+"KMAKL38","65134330646200000","Male",34,"[30 - 35)",1,"Brother or sister in law",0,"Never married/lived together","Kamba",,
+"KMAKL38","65134330815200000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL38","65134330823000000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL38","65134330487000000","Female",32,"[30 - 35)",1,"Household head",1,"Never married/lived together","Kamba",3,0
+"KMAKL38","65136514080800000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL38","65134330743700000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL39","65134432359300000","Male",47,"[45 - 50)",1,"Husband or wife",0,"Married/living together","Kamba",6,0
+"KMAKL39","65134434811300000","Male",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL39","65134432169300000","Female",42,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",6,0
+"KMAKL39","65134435154200000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL39","65134434716300000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL39","65134434956400000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL39","65134435082900000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL39","65134434894900000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL40","65134444810100000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL40","65136480701500000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL40","65134448442600000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL40","65134448526000000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL40","65134444715000000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMAKL40","65134442721400000","Female",31,"[30 - 35)",1,"Household head",1,"Married/living together","Kamba",4,0
+"KMOMB01","57134338787100000","Female",32,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Taita/Taveta",1,0
+"KMOMB01","57136513184600000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Taita/Taveta",,
+"KMOMB01","57134339147100000","Male",34,"[30 - 35)",1,"Household head",1,"Married/living together","Taita/Taveta",1,0
+"KMOMB01","57134338965900000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Taita/Taveta",,
+"KMOMB02","57134372057200000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB02","57134371779000000","Female",26,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",2,0
+"KMOMB02","57134372270400000","Male",39,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",2,0
+"KMOMB02","57134372166400000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB02","57134501966900000","Male",20,"[20 - 25)",1,"Niece or nephew",0,"Never married/lived together","Luhya",,
+"KMOMB03","57134398350200000","Male",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMB03","57134398896300000","Female",22,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMB03","57134407874800000","Male",53,"[50 - 55)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",7,0
+"KMOMB03","57134407445500000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMB03","57134407687800000","Female",50,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",7,0
+"KMOMB03","57134398597600000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMB03","57134407575400000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMB03","57134398136500000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Widowed","Mijikenda/Swahili",4,2
+"KMOMB03","57134398459600000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMB04","57134363349500000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB04","57134362888100000","Male",35,"[35 - 40)",1,"Household head",1,"Married/living together","Luo",1,0
+"KMOMB04","57134363181700000","Female",28,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",1,0
+"KMOMB05","57134408521700000","Female",48,"[45 - 50)",1,"Husband or wife",0,"Married/living together","Luo",2,4
+"KMOMB05","57134408247700000","Male",58,"[55 - 60)",1,"Household head",1,"Married/living together","Luo",2,4
+"KMOMB05","57134408811800000","Male",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB05","57134408679900000","Male",12,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KMOMB05","57134408946700000","Female",9,"[5 - 10)",0,"Foster or adopted child",0,"Never married/lived together","Luo",,
+"KMOMB05","57134409025000000","Female",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KMOMB05","57134409122200000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB06","57134295008100000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB06","57134295207400000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB06","57134294490600000","Female",39,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Luhya",4,0
+"KMOMB06","57134294208000000","Male",50,"[50 - 55)",1,"Household head",1,"Married/living together","Luhya",4,0
+"KMOMB06","57134294683300000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB06","57134294870400000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB07","57134372871700000","Male",50,"[50 - 55)",1,"Household head",1,"Separated/divorced","Luhya",0,2
+"KMOMB08","57134336927400000","Male",37,"[35 - 40)",1,"Household head",1,"Married/living together","Kamba",0,3
+"KMOMB10","57134338167400000","Male",38,"[35 - 40)",1,"Household head",1,"Married/living together","Luo",1,1
+"KMOMB10","57134337926900000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB10","57134337712900000","Female",26,"[25 - 30)",1,"Brother or sister",0,"Never married/lived together","Luo",0,1
+"KMOMB10","57134338351700000","Female",29,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luo",1,1
+"KMOMB10","57137334806700000","Female",17,"[15 - 20)",1,"Husband or wife",0,"Married/living together","Luo",,
+"KMOMB14","57134305609900000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB14","57134305414800000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB14","57134305072200000","Female",27,"[25 - 30)",1,"Household head",1,"Separated/divorced","Luhya",3,0
+"KMOMB14","57134305707100000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB16","57136480482500000","Female",25,"[25 - 30)",1,"Son or daughter",0,"Separated/divorced","Luo",2,0
+"KMOMB16","57134296030900000","Female",27,"[25 - 30)",1,"Son or daughter",0,"Separated/divorced","Luo",2,0
+"KMOMB16","57134296459600000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB16","57134296564500000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB16","57136711294600000","Female",6,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KMOMB16","57134296189900000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KMOMB16","57134296296800000","Female",5,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KMOMB16","57134296642700000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB16","57134296703600000","Female",13,"[10 - 15)",0,,0,"Never married/lived together","Luo",,
+"KMOMB16","57136711662800000","Female",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KMOMB16","57134296370300000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB16","57134295585600000","Male",58,"[55 - 60)",1,"Household head",1,"Married/living together","Luo",5,2
+"KMOMB16","57134295816400000","Female",26,"[25 - 30)",1,"Friend or neighbor",0,"Never married/lived together","Luhya",,
+"KMOMB16","57134295592300000","Female",41,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Luhya",5,2
+"KMOMB17","57134365707800000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB17","57134365920400000","Male",16,"[15 - 20)",1,"Brother or sister",0,"Never married/lived together","Luo",,
+"KMOMB17","57134365796300000","Male",20,"[20 - 25)",1,"Brother or sister",0,"Never married/lived together","Luo",,
+"KMOMB17","57134365483700000","Female",22,"[20 - 25)",1,"Household head",1,"Never married/lived together","Luo",1,0
+"KMOMB18","57134363775700000","Female",23,"[20 - 25)",1,"Friend or neighbor",0,"Separated/divorced","Luo",0,2
+"KMOMB18","57134364318500000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB18","57134364185000000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB18","57134363939100000","Female",24,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB18","57134364414700000","Female",41,"[40 - 45)",1,"Household head",1,"Separated/divorced","Luhya",3,2
+"KMOMB18","57137921756100000","Male",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB20","57134381707600000","Male",44,"[40 - 45)",1,"Household head",1,"Married/living together","Luo",1,6
+"KMOMB20","57134381444600000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB21","57134382216000000","Female",24,"[20 - 25)",1,"Household head",1,"Never married/lived together","Luo",1,0
+"KMOMB21","57134382490800000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB22","57134423353200000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB22","57136117645700000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB22","57134423336600000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB22","57134402623200000","Female",35,"[35 - 40)",1,"Household head",1,"Widowed","Luo",4,2
+"KMOMB22","57134423347300000","Male",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB22","57134423342100000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB23","57134459443200000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB23","57134459355200000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB23","57134458997500000","Male",44,"[40 - 45)",1,"Household head",1,"Married/living together","Luhya",4,0
+"KMOMB23","57134459583500000","Female",32,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Luhya",4,0
+"KMOMB23","57134459245200000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KMOMB23","57134459514900000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMB23","57134459657200000","Female",67,"[65+]",0,"Parent (mother or father)",0,"Widowed","Luo",1,3
+"KMOMK01","61134491544900000","Female",62,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",0,8
+"KMOMK01","61135730036000000","Female",22,"[20 - 25)",1,"Son or daughter",0,"Separated/divorced","Mijikenda/Swahili",1,0
+"KMOMK01","61134491532800000","Male",69,"[65+]",0,"Household head",1,"Married/living together","Mijikenda/Swahili",0,15
+"KMOMK01","61134546253600000","Female",14,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK01","61134491524800000","Female",57,"[55 - 60)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",0,8
+"KMOMK01","61135730397200000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Taita/Taveta",,
+"KMOMK01","61134491538500000","Female",68,"[65+]",0,"Brother or sister",0,"Widowed","Mijikenda/Swahili",0,0
+"KMOMK01","61134545428700000","Male",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK03","61136764430300000","Female",16,"[15 - 20)",1,"Niece or nephew",0,"Never married/lived together","Kamba",,
+"KMOMK03","61134406243400000","Male",53,"[50 - 55)",1,"Household head",1,"Married/living together","Kikuyu",2,3
+"KMOMK03","61134407037100000","Female",70,"[65+]",0,"Parent (mother or father)",0,"Widowed","Kikuyu",1,8
+"KMOMK03","61134406774500000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KMOMK03","61134406903600000","Female",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KMOMK03","61134406652800000","Female",50,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Kamba",2,3
+"KMOMK04","61134924685000000","Female",22,"[20 - 25)",1,"Brother or sister in law",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK04","61134365439200000","Male",30,"[30 - 35)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",,
+"KMOMK04","61134365905800000","Female",25,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",,
+"KMOMK06","61134395033200000","Male",57,"[55 - 60)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",3,9
+"KMOMK06","61134395068300000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK06","61134395024600000","Female",41,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",3,6
+"KMOMK06","61135826332100000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",0,
+"KMOMK06","61134395059100000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK06","61136073459600000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK06","61134395050900000","Female",7,"[5 - 10)",0,"Son or daughter in law",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134364945400000","Male",2,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134364780400000","Female",12,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134364505100000","Female",38,"[35 - 40)",1,"Mother or farther in law",0,"Married/living together","Mijikenda/Swahili",5,1
+"KMOMK08","61134364237300000","Female",37,"[35 - 40)",1,"Mother or farther in law",0,"Widowed","Mijikenda/Swahili",2,0
+"KMOMK08","61134363982000000","Male",35,"[35 - 40)",1,"Son or daughter",0,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMK08","61134363655200000","Male",37,"[35 - 40)",1,"Son or daughter",0,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMK08","61134363900000000","Male",4,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134364353000000","Female",15,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61135162641500000","Male",5,"[5 - 10)",0,"Grandchild",0,"Never married/lived together",,,
+"KMOMK08","61134364658600000","Female",14,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134364837400000","Female",9,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134364880400000","Male",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134365025300000","Female",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61136006790000000","Female",30,"[30 - 35)",1,"Son or daughter in law",0,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMK08","61134364059400000","Female",25,"[25 - 30)",1,"Mother or farther in law",0,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMK08","61134363726000000","Female",43,"[40 - 45)",1,"Son or daughter",0,"Married/living together","Mijikenda/Swahili",2,0
+"KMOMK08","61136299610200000","Male",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134364430200000","Male",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134364164300000","Female",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134363814400000","Female",12,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK08","61134362972400000","Male",64,"[60 - 65)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",4,4
+"KMOMK08","61134363286800000","Male",42,"[40 - 45)",1,"Son or daughter",0,"Married/living together","Mijikenda/Swahili",5,1
+"KMOMK08","61134363474900000","Female",61,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",4,1
+"KMOMK09","61134479318400000","Female",50,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Kamba",1,0
+"KMOMK09","61134479348000000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMOMK09","61134479362900000","Male",14,"[10 - 15)",0,"Brother or sister",0,"Never married/lived together",,,
+"KMOMK09","61134479309400000","Male",42,"[40 - 45)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",1,3
+"KMOMK09","61134479375100000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMOMK09","61134479335800000","Female",18,"[15 - 20)",1,"Brother or sister",0,"Never married/lived together",,,
+"KMOMK13","61134392342100000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK13","61134381860100000","Male",54,"[50 - 55)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",4,1
+"KMOMK13","61134381869100000","Female",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK13","61134392681100000","Female",7,"[5 - 10)",0,"Brother or sister in law",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK13","61134392501200000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK13","61134392587200000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK13","61134382134100000","Female",36,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",4,1
+"KMOMK14","61134393126800000","Male",46,"[45 - 50)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",4,1
+"KMOMK14","61134394427800000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK14","61134394294700000","Female",44,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",4,1
+"KMOMK14","112137112651700000","Male",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK14","61134394604400000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK14","61134394775000000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK14","61134394698000000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK15","61134459043500000","Female",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KMOMK15","61134458558400000","Female",44,"[40 - 45)",1,"Household head",1,"Separated/divorced","Kamba",1,1
+"KMOMK15","61134459331600000","Male",17,"[15 - 20)",1,,0,"Never married/lived together","Meru",,
+"KMOMK15","61134459113600000","Female",20,"[20 - 25)",1,"Mother or farther in law",0,"Married/living together","Luhya",1,0
+"KMOMK15","61134458861300000","Male",21,"[20 - 25)",1,"Son or daughter",0,"Married/living together","Luhya",1,0
+"KMOMK15","61134459536800000","Male",23,"[20 - 25)",1,,0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK15","61134459243900000","Male",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Kamba",,
+"KMOMK15","61134889846300000","Female",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kamba",1,0
+"KMOMK16","61134381034300000","Female",38,"[35 - 40)",1,"Household head",1,"Widowed","Mijikenda/Swahili",2,1
+"KMOMK16","61134381600900000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK16","84137032756500000","Male",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK16","61134381474300000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK17","61134478937200000","Male",22,"[20 - 25)",1,"Brother or sister in law",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK17","61134478633900000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK17","61134407559000000","Male",38,"[35 - 40)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",3,0
+"KMOMK17","61134478737100000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK17","61134407425400000","Female",25,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",3,0
+"KMOMK17","61134478539300000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK19","61134582183800000","Female",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK19","61134435525800000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK19","61134435830700000","Male",32,"[30 - 35)",1,"Son or daughter",0,"Married/living together","Mijikenda/Swahili",,
+"KMOMK19","61134434981400000","Male",62,"[60 - 65)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",5,6
+"KMOMK19","61134435356300000","Female",13,"[10 - 15)",0,,0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK19","61134435561200000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK19","61134435591000000","Female",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK19","61134435259400000","Female",24,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",3,0
+"KMOMK19","61134435762200000","Male",29,"[25 - 30)",1,"Son or daughter",0,"Married/living together","Mijikenda/Swahili",0,3
+"KMOMK19","61134435480100000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMK19","61136317783900000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM01","57134322467600000","Male",20,"[20 - 25)",1,"Niece or nephew",0,"Never married/lived together","Kamba",,
+"KMOMM01","57134322015900000","Male",44,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",1,2
+"KMOMM01","57134322363700000","Female",26,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kamba",1,0
+"KMOMM01","57134322253000000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KMOMM03","57134320861700000","Female",25,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",2,0
+"KMOMM03","57134450974000000","Male",17,"[15 - 20)",1,"Brother or sister in law",0,"Never married/lived together","Luhya",,
+"KMOMM03","57134321360600000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM03","57134321282900000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM03","57134320879700000","Male",29,"[25 - 30)",1,"Household head",1,"Married/living together","Luhya",2,0
+"KMOMM04","57134321506500000","Female",36,"[35 - 40)",1,"Household head",1,"Separated/divorced","Luo",1,1
+"KMOMM04","57134321734000000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM06","57134304185700000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM06","57137024579500000","Female",21,"[20 - 25)",1,"Brother or sister",0,"Never married/lived together","Luhya",,
+"KMOMM06","57134304447500000","Female",36,"[35 - 40)",1,"Household head",1,"Separated/divorced","Luhya",1,1
+"KMOMM07","57134347844500000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM07","57134347955700000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM07","57134347789400000","Female",28,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",2,0
+"KMOMM07","57134347631100000","Male",33,"[30 - 35)",1,"Household head",1,"Married/living together","Luhya",2,0
+"KMOMM10","57134320279300000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM10","57134320149300000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM10","57134320447800000","Male",35,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",3,0
+"KMOMM10","57134320041500000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM10","57134319815200000","Female",29,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",3,0
+"KMOMM11","57134380513500000","Male",24,"[20 - 25)",1,"Household head",1,"Separated/divorced","Mijikenda/Swahili",0,2
+"KMOMM11","57136300943300000","Female",23,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",,
+"KMOMM11","57134380717200000","Male",26,"[25 - 30)",1,"Friend or neighbor",0,"Never married/lived together","Kamba",,
+"KMOMM12","57134303587500000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KMOMM12","57134303074500000","Male",23,"[20 - 25)",1,"Household head",1,"Married/living together","Luhya",1,0
+"KMOMM12","57134303030700000","Female",21,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Luhya",1,0
+"KMOMM13","57134345813100000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM13","57134345915400000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM13","57134346075800000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM13","57134346315700000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM13","57134346224700000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM13","57134345619700000","Male",36,"[35 - 40)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",5,0
+"KMOMM13","57134346449000000","Female",35,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",5,0
+"KMOMM15","57134917912200000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM15","57134700773600000","Female",24,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",2,0
+"KMOMM15","57134346769300000","Male",33,"[30 - 35)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",0,2
+"KMOMM15","57134917880000000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM15","57134347060700000","Male",33,"[30 - 35)",1,"Brother or sister",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM15","57136512765300000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM16","57134477447000000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM16","57134476971700000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM16","57134355915500000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM16","57134355675400000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM16","57134355497700000","Female",39,"[35 - 40)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",5,2
+"KMOMM16","57134356286300000","Male",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM16","57134356111100000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM16","57134355818800000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMM16","57134355995800000","Male",57,"[55 - 60)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",5,2
+"KMOMM18","57134433465400000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kisii",,
+"KMOMM18","57134433115100000","Female",36,"[35 - 40)",1,"Household head",1,"Separated/divorced","Luo",2,1
+"KMOMM18","57134433371600000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kisii",,
+"KMOMM25","57134406243100000","Male",31,"[30 - 35)",1,"Household head",1,"Separated/divorced","Luhya",0,2
+"KMOMT01","61134424108900000","Female",52,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",2,1
+"KMOMT01","61136145982400000","Male",13,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT01","61134424697500000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT01","61136145964300000","Female",14,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT01","61134423778900000","Male",68,"[65+]",0,"Household head",1,"Married/living together","Mijikenda/Swahili",4,5
+"KMOMT01","61134424821600000","Female",2,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT01","61134424098700000","Female",62,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",2,4
+"KMOMT01","61136145973100000","Female",12,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT01","61134424632100000","Male",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT01","61134424840500000","Female",5,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT01","61134424125500000","Female",34,"[30 - 35)",1,"Son or daughter",0,"Widowed","Mijikenda/Swahili",3,0
+"KMOMT01","61134424765700000","Male",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT02","61134349024000000","Female",13,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT02","61134358629900000","Male",17,"[15 - 20)",1,"Step son or step daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT02","61134348511500000","Male",18,"[15 - 20)",1,"Step son or step daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT02","61134337487300000","Male",36,"[35 - 40)",1,"Son or daughter",0,"Separated/divorced","Mijikenda/Swahili",2,0
+"KMOMT02","61134348670800000","Male",15,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT02","61134349072700000","Female",20,"[20 - 25)",1,"Brother or sister in law",0,"Married/living together","Mijikenda/Swahili",,
+"KMOMT02","61135910227600000","Male",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT02","61134348785200000","Male",17,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT02","61135788782700000","Female",22,"[20 - 25)",1,"Son or daughter in law",0,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMT02","61134337424100000","Female",52,"[50 - 55)",1,"Household head",1,"Widowed","Mijikenda/Swahili",1,3
+"KMOMT03","61134338082500000","Female",38,"[35 - 40)",1,"Household head",1,"Widowed","Mijikenda/Swahili",2,0
+"KMOMT03","61134338244700000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT03","61134338392900000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT06","61134442309700000","Male",38,"[35 - 40)",1,"Household head",1,"Married/living together","Luo",4,0
+"KMOMT06","61134442700200000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT06","61134442605300000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT06","61134442496500000","Female",35,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",4,0
+"KMOMT06","61134442712200000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT06","61134442684400000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT12","61134426731700000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT12","61134426737700000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT12","61134426744900000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",0,0
+"KMOMT12","61134426723200000","Female",38,"[35 - 40)",1,"Household head",1,"Separated/divorced","Mijikenda/Swahili",3,1
+"KMOMT15","61134399522100000","Male",52,"[50 - 55)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",7,1
+"KMOMT15","61134477018700000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT15","61134520740000000","Female",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT15","61134477527200000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT15","61134474659700000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",1,0
+"KMOMT15","61134477243500000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT15","61134440681700000","Male",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT15","61134399962500000","Male",24,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT15","61135175693100000","Female",73,"[65+]",0,"Mother or farther in law",0,"Widowed","Mijikenda/Swahili",5,1
+"KMOMT15","61134399881000000","Female",44,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",7,1
+"KMOMT15","61134477645500000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT15","61134475930700000","Female",6,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT15","61134475154300000","Female",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT15","61134437317700000","Female",26,"[25 - 30)",1,"Son or daughter",0,"Separated/divorced","Mijikenda/Swahili",3,0
+"KMOMT15","61134474941900000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT16","61134441687600000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT16","61134441920900000","Female",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT16","61134441925300000","Female",2,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT16","61135487517100000","Female",25,"[25 - 30)",1,"Son or daughter",0,"Separated/divorced","Mijikenda/Swahili",2,3
+"KMOMT16","61134441545700000","Female",37,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",6,4
+"KMOMT16","61134441761500000","Male",42,"[40 - 45)",1,"Brother or sister in law",0,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMT16","61134441890900000","Male",6,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT16","61134441326500000","Male",53,"[50 - 55)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",6,4
+"KMOMT16","61134441802100000","Female",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT16","61134441633800000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT18","61134398949100000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT18","61134399074500000","Female",9,"[5 - 10)",0,"Niece or nephew",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT18","61134398994300000","Female",13,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT18","61134398779000000","Female",34,"[30 - 35)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMT19","61134449820100000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT19","61134449755500000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT19","61134449644300000","Female",28,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",2,1
+"KMOMT19","61134449472600000","Male",39,"[35 - 40)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",2,0
+"KMOMT21","61134398561800000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT21","61134398173800000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT21","61134397950700000","Female",24,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",5,0
+"KMOMT21","61134398533400000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT21","61134398485100000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT21","61134883132200000","Male",17,"[15 - 20)",1,"Brother or sister in law",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT21","61134398437500000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT21","61134397892600000","Male",36,"[35 - 40)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",5,0
+"KMOMT22","61134425850400000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT22","61134425639100000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT22","61134425876700000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT22","61134425330400000","Male",35,"[35 - 40)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",4,0
+"KMOMT22","61134425887200000","Male",12,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT22","61134425818500000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT22","61134425728400000","Male",24,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",4,0
+"KMOMT25","61134467449300000","Female",27,"[25 - 30)",1,,0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT25","61134467265900000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Married/living together","Mijikenda/Swahili",,
+"KMOMT25","61134467126800000","Male",32,"[30 - 35)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMT25","61134467335400000","Female",30,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",1,1
+"KMOMT25","112137187533400000","Female",0,"[0 - 5)",0,,0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT28","61134470183300000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT28","61134470234100000","Female",17,"[15 - 20)",1,,0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT28","61134470104500000","Male",39,"[35 - 40)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMT28","61134469982600000","Female",39,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",1,0
+"KMOMT28","61135912320900000","Female",9,"[5 - 10)",0,"Niece or nephew",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT29","61134441011600000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT29","61134517580000000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT29","61134517659800000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT29","61134440698100000","Male",68,"[65+]",0,"Household head",1,"Married/living together","Mijikenda/Swahili",6,0
+"KMOMT29","61134440930900000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT29","61134441131100000","Female",42,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",6,0
+"KMOMT31","61134450698600000","Female",43,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",0,0
+"KMOMT31","61134450308700000","Male",72,"[65+]",0,"Household head",1,"Married/living together","Mijikenda/Swahili",0,2
+"KMOMT31","84136913131500000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT32","61134469320800000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT32","61135893083900000","Female",28,"[25 - 30)",1,"Step son or step daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT32","61134469223300000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT32","61134469167600000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT32","112137275476000000","Male",13,"[10 - 15)",0,"Step son or step daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT32","61134469028000000","Female",48,"[45 - 50)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",6,0
+"KMOMT32","61134469270700000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT32","61135978525800000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT32","61134469369300000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT32","61134468689200000","Male",51,"[50 - 55)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",5,0
+"KMOMT33","61134553240000000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT33","61134553356600000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",0,
+"KMOMT33","61134553371600000","Male",39,"[35 - 40)",1,"Household head",1,"Married/living together","Mijikenda/Swahili",3,0
+"KMOMT33","61134553317400000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Mijikenda/Swahili",,
+"KMOMT33","61134553127800000","Female",34,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Mijikenda/Swahili",3,0
+"KNBOK01","79134743445400000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KNBOK01","79134743588500000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",0,0
+"KNBOK01","64134434203200000","Female",37,"[35 - 40)",1,"Household head",1,"Separated/divorced","Kamba",3,0
+"KNBOK01","79134743813600000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KNBOK02","79134761543200000","Female",22,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kamba",0,0
+"KNBOK02","79134821776500000","Male",29,"[25 - 30)",1,"Household head",1,"Married/living together","Kikuyu",1,1
+"KNBOK02","79134761580100000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK02","79134761587200000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK03","89136300389900000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK03","64134408302100000","Male",36,"[35 - 40)",1,"Household head",1,"Married/living together","Kikuyu",3,1
+"KNBOK03","89136300377800000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK03","89137388303100000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK03","89136608744800000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK03","64134408292500000","Female",34,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kikuyu",3,1
+"KNBOK03","89136608704300000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK04","64134463422200000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK04","64134462052700000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK04","64134463401700000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK04","64134451105400000","Female",33,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kikuyu",3,1
+"KNBOK04","64134461873300000","Male",31,"[30 - 35)",1,"Household head",1,"Married/living together","Kikuyu",3,1
+"KNBOK04","64134463242800000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK05","64134429552700000","Female",34,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kikuyu",2,1
+"KNBOK05","64134449620700000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK05","89136713643600000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK05","64134429266300000","Male",36,"[35 - 40)",1,"Household head",1,"Married/living together","Kikuyu",2,1
+"KNBOK05","64134449741200000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK06","64134420082700000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK06","64134398387400000","Male",31,"[30 - 35)",1,"Household head",1,"Married/living together","Kikuyu",2,0
+"KNBOK06","64134398420500000","Female",30,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kikuyu",2,0
+"KNBOK06","64134426307000000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK08","89136583497700000","Male",19,"[15 - 20)",1,"Brother or sister",0,"Never married/lived together","Kikuyu",,
+"KNBOK08","64134373428700000","Male",20,"[20 - 25)",1,"Household head",1,"Never married/lived together","Kikuyu",,
+"KNBOK08","64134375204000000","Male",26,"[25 - 30)",1,"Brother or sister",0,"Never married/lived together","Kikuyu",,
+"KNBOK11","79134848299100000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK11","79134813357500000","Male",35,"[35 - 40)",1,"Household head",1,"Married/living together","Kikuyu",1,0
+"KNBOK11","79134848198800000","Female",23,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kikuyu",1,0
+"KNBOK11","89135909922000000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Married/living together","Kikuyu",,
+"KNBOK14","64134416720600000","Female",35,"[35 - 40)",1,"Household head",1,"Never married/lived together","Luo",2,0
+"KNBOK14","64134417155600000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK14","64134417148000000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK15","64134399240000000","Female",36,"[35 - 40)",1,"Son or daughter",0,"Separated/divorced","Kikuyu",2,0
+"KNBOK15","89135781378400000","Male",35,"[35 - 40)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK15","64134399155700000","Female",54,"[50 - 55)",1,"Household head",1,"Widowed","Kikuyu",1,2
+"KNBOK15","64134427554100000","Female",4,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Kikuyu",,
+"KNBOK15","89135781454900000","Male",16,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Kikuyu",,
+"KNBOK15","64134427386500000","Male",12,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Kikuyu",,
+"KNBOK16","64134373843900000","Male",33,"[30 - 35)",1,"Household head",1,"Married/living together","Luo",0,2
+"KNBOK16","64134375407200000","Male",21,"[20 - 25)",1,"Brother or sister",0,"Never married/lived together","Luo",,
+"KNBOK16","89136315237400000","Female",26,"[25 - 30)",1,"Cousin",0,"Never married/lived together","Luo",2,2
+"KNBOK17","64134400263200000","Female",31,"[30 - 35)",1,"Household head",1,"Never married/lived together","Kisii",,
+"KNBOK18","89136625528100000","Male",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK18","64134452134100000","Female",42,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Kisii",2,2
+"KNBOK18","64134482744200000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK18","64134482956800000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK18","50135410058900000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK18","64134482630800000","Male",56,"[55 - 60)",1,"Household head",1,"Married/living together","Kikuyu",2,1
+"KNBOK19","64134399713800000","Male",39,"[35 - 40)",1,"Household head",1,"Married/living together","Kikuyu",2,0
+"KNBOK19","89136403243000000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK19","64134428659700000","Female",28,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Kikuyu",2,0
+"KNBOK19","89136609606000000","Female",73,"[65+]",0,"Parent (mother or father)",0,"Widowed","Kikuyu",1,5
+"KNBOK19","64134428935900000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK19","64134428788200000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK20","79135063035400000","Male",22,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",0,
+"KNBOK20","79135063019900000","Female",29,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",0,
+"KNBOK20","79135062746000000","Female",54,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Kikuyu",2,2
+"KNBOK20","79135063028100000","Female",24,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK20","79135062979700000","Male",59,"[55 - 60)",1,"Household head",1,"Married/living together","Kikuyu",2,2
+"KNBOK20","79135063042600000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK22","64134337808600000","Female",32,"[30 - 35)",1,"Household head",1,"Never married/lived together","Luo",1,0
+"KNBOK22","64134337819400000","Female",21,"[20 - 25)",1,"Brother or sister",0,"Never married/lived together","Luo",1,0
+"KNBOK22","64134337848100000","Female",1,"[0 - 5)",0,"Niece or nephew",0,"Never married/lived together","Luo",,
+"KNBOK22","64134337841900000","Male",13,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Luo",,
+"KNBOK22","64134337832100000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK23","64134437007600000","Female",26,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",,
+"KNBOK23","64134433146600000","Male",27,"[25 - 30)",1,"Household head",1,"Married/living together","Luhya",,
+"KNBOK23","89136299261800000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KNBOK25","64134340964500000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK25","89135997889800000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK25","64134340979000000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK25","64134340957700000","Female",21,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Luo",3,0
+"KNBOK25","89136127292700000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK25","64134340350900000","Male",42,"[40 - 45)",1,"Household head",1,"Married/living together","Luo",3,4
+"KNBOK25","64134340972200000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK26","89135824823900000","Male",25,"[25 - 30)",1,"Friend or neighbor",0,"Never married/lived together","Luo",,1
+"KNBOK26","64134382466300000","Male",28,"[25 - 30)",1,"Household head",1,"Never married/lived together","Luo",,
+"KNBOK26","89136489681100000","Male",21,"[20 - 25)",1,"Friend or neighbor",0,"Never married/lived together","Luo",,
+"KNBOK26","64134392465100000","Female",22,"[20 - 25)",1,"Brother or sister",0,"Never married/lived together","Luo",0,1
+"KNBOK27","64134332474600000","Male",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK27","64134330145000000","Female",35,"[35 - 40)",1,"Household head",1,"Separated/divorced","Kikuyu",4,1
+"KNBOK27","64134330496100000","Female",18,"[15 - 20)",1,,0,"Never married/lived together","Kikuyu",,
+"KNBOK27","64134332339000000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK27","64134331572300000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOK29","62137334699200000","Female",47,"[45 - 50)",1,"Husband or wife",0,"Married/living together",,0,6
+"KNBOK29","64134380651800000","Male",58,"[55 - 60)",1,"Household head",1,"Never married/lived together","Luhya",0,6
+"KNBOK31","64134461552600000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK31","64134460998200000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK31","64134461155200000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK31","64134460703500000","Female",36,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Luo",4,0
+"KNBOK31","64134459158700000","Male",39,"[35 - 40)",1,"Household head",1,"Married/living together","Luo",4,0
+"KNBOK31","64134460832400000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK32","50134684381200000","Male",4,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luo",0,0
+"KNBOK32","64134329480500000","Female",55,"[55 - 60)",1,"Household head",1,"Widowed","Luo",0,5
+"KNBOK32","64134329754600000","Female",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KNBOK34","79134829607800000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",0,0
+"KNBOK34","79134829614300000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK34","79134829266800000","Female",43,"[40 - 45)",1,"Household head",1,"Married/living together","Luo",2,1
+"KNBOK34","79134829600500000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK34","79134829490300000","Female",33,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Luo",2,1
+"KNBOK35","50137379592800000","Female",33,"[30 - 35)",1,"Brother or sister",0,,,,
+"KNBOK35","64134445473800000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK35","64134445268900000","Male",30,"[30 - 35)",1,"Household head",1,"Married/living together","Luo",1,0
+"KNBOK35","64134445408400000","Female",32,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Luhya",1,0
+"KNBOK36","79134986123400000","Female",43,"[40 - 45)",1,"Brother or sister",0,"Never married/lived together","Luo",0,0
+"KNBOK36","79134986039800000","Male",26,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK36","79134985945000000","Male",32,"[30 - 35)",1,"Son or daughter",0,"Never married/lived together","Luo",2,0
+"KNBOK36","89136177805000000","Female",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luo",1,0
+"KNBOK36","89136177933000000","Female",2,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KNBOK36","79134985767500000","Female",47,"[45 - 50)",1,"Household head",1,"Married/living together","Luo",2,3
+"KNBOK38","79135089120200000","Male",36,"[35 - 40)",1,"Household head",1,"Never married/lived together","Embu",,
+"KNBOK39","79135114710200000","Male",25,"[25 - 30)",1,"Household head",1,"Separated/divorced","Luo",1,0
+"KNBOK39","79135114850500000","Male",18,"[15 - 20)",1,"Brother or sister",0,"Never married/lived together","Luo",0,
+"KNBOK39","79135114810400000","Female",24,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Luo",0,1
+"KNBOK39","79135114857800000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOK40","79135124188900000","Male",20,"[20 - 25)",1,"Household head",1,"Never married/lived together","Luhya",0,0
+"KNBOK40","50135332375100000","Male",21,"[20 - 25)",1,,0,"Never married/lived together",,,
+"KNBOK41","50135271114900000","Male",67,"[65+]",0,"Household head",1,"Married/living together","Kikuyu",0,8
+"KNBOK42","50135417760600000","Female",50,"[50 - 55)",1,"Household head",1,"Separated/divorced","Kikuyu",1,1
+"KNBOK42","50135417907100000","Female",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM02","62134390349000000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM02","62135014030300000","Female",1,"[0 - 5)",0,"Niece or nephew",0,"Never married/lived together","Luo",0,
+"KNBOM02","62134390089800000","Female",21,"[20 - 25)",1,"Household head",1,"Never married/lived together","Luo",1,0
+"KNBOM02","62136764752200000","Male",25,"[25 - 30)",1,"Unmarried partner",0,"Married/living together","Luo",1,0
+"KNBOM03","62134391358700000","Female",32,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kikuyu",2,0
+"KNBOM03","62134391031900000","Male",44,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",3,6
+"KNBOM03","62136437668800000","Female",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Meru",,
+"KNBOM03","62134391619400000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KNBOM03","62134391513500000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KNBOM03","62134391691100000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KNBOM04","62134426154100000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KNBOM04","62134425991900000","Female",27,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luo",3,0
+"KNBOM04","62134426420000000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",0,0
+"KNBOM04","62134426485100000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KNBOM04","62134426330600000","Male",47,"[45 - 50)",1,"Household head",1,"Married/living together","Luhya",3,0
+"KNBOM11","62134337637200000","Female",22,"[20 - 25)",1,"Household head",1,"Never married/lived together","Kisii",,
+"KNBOM11","62134337927700000","Female",21,"[20 - 25)",1,"Friend or neighbor",0,"Never married/lived together","Kisii",,
+"KNBOM11","62134337350300000","Female",25,"[25 - 30)",1,"Friend or neighbor",0,"Never married/lived together","Kisii",,
+"KNBOM11","62137761760800000","Female",15,"[15 - 20)",1,"Friend or neighbor",0,"Never married/lived together","Kisii",,
+"KNBOM13","62137663892600000","Female",14,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Kikuyu",,
+"KNBOM13","62136490160800000","Male",0,"[0 - 5)",0,"Niece or nephew",0,"Never married/lived together","Kikuyu",,
+"KNBOM13","62134364478100000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM13","62136490111200000","Female",19,"[15 - 20)",1,"Brother or sister",0,"Never married/lived together","Kikuyu",1,0
+"KNBOM13","62134364260000000","Female",27,"[25 - 30)",1,"Household head",1,"Never married/lived together","Kikuyu",1,0
+"KNBOM14","62134339787000000","Male",27,"[25 - 30)",1,"Brother or sister",0,"Never married/lived together","Luo",,
+"KNBOM14","62134340582800000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM14","62134340491100000","Female",8,"[5 - 10)",0,"Foster or adopted parent",0,"Never married/lived together","Luo",,
+"KNBOM14","62136379603300000","Female",25,"[25 - 30)",1,"Brother or sister",0,"Never married/lived together","Luo",,0
+"KNBOM14","62134339332400000","Male",21,"[20 - 25)",1,"Household head",1,"Married/living together","Luo",1,0
+"KNBOM14","62134340208600000","Female",23,"[20 - 25)",1,"Husband or wife",0,"Never married/lived together","Luo",1,0
+"KNBOM15","62134362978100000","Male",27,"[25 - 30)",1,"Household head",1,"Never married/lived together","Kikuyu",,
+"KNBOM16","62134330289700000","Female",28,"[25 - 30)",1,"Household head",1,"Separated/divorced","Luo",3,0
+"KNBOM16","62134330655300000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together",,,
+"KNBOM16","62134330649000000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kisii",,
+"KNBOM16","62134330665200000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together",,,
+"KNBOM19","62134372906100000","Female",42,"[40 - 45)",1,"Household head",1,"Separated/divorced","Luhya",1,1
+"KNBOM19","62134373193700000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KNBOM19","62134623971600000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KNBOM22","62134467309300000","Female",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM22","62134348506600000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM22","62134347918700000","Male",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM22","62134356887800000","Female",22,"[20 - 25)",1,"Foster or adopted child",0,"Never married/lived together","Kikuyu",,
+"KNBOM22","62134348212300000","Female",46,"[45 - 50)",1,"Household head",1,"Never married/lived together","Kikuyu",2,1
+"KNBOM22","62134348621100000","Female",1,"[0 - 5)",0,"Foster or adopted parent",0,"Never married/lived together","Kikuyu",,
+"KNBOM25","62134363763800000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM25","62134363618000000","Male",67,"[65+]",0,"Husband or wife",0,"Married/living together","Kikuyu",3,2
+"KNBOM25","62134363998100000","Female",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM25","62134363881900000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM25","62134363376300000","Female",48,"[45 - 50)",1,"Household head",1,"Married/living together","Kikuyu",3,2
+"KNBOM26","62134346798900000","Female",5,"[5 - 10)",0,"Niece or nephew",0,"Never married/lived together","Luhya",,
+"KNBOM26","62134346696700000","Male",11,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Luhya",,
+"KNBOM26","62134346102200000","Female",23,"[20 - 25)",1,"Niece or nephew",0,"Never married/lived together","Luo",1,0
+"KNBOM26","62134346589900000","Female",13,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Luhya",,
+"KNBOM26","62135461842100000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM26","62137353674400000","Female",8,"[5 - 10)",0,"Niece or nephew",0,"Never married/lived together","Luo",,
+"KNBOM26","62134346378700000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Taita/Taveta",,
+"KNBOM26","62134346412300000","Female",38,"[35 - 40)",1,"Brother or sister",0,"Separated/divorced","Luo",3,0
+"KNBOM26","62134346297900000","Female",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KNBOM26","62134345726400000","Female",41,"[40 - 45)",1,"Household head",1,"Widowed","Luo",1,2
+"KNBOM26","62137353660500000","Male",11,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Luo",,
+"KNBOM31","62134347100000000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KNBOM31","62137662931300000","Male",58,"[55 - 60)",1,"Mother or farther in law",0,"Married/living together","Kamba",,
+"KNBOM31","62134347401900000","Male",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kamba",,
+"KNBOM31","62134347056700000","Male",41,"[40 - 45)",1,"Household head",1,"Married/living together","Kamba",2,4
+"KNBOM32","62136406481700000","Female",0,"[0 - 5)",0,"Niece or nephew",0,"Never married/lived together","Kikuyu",,
+"KNBOM32","62135827394800000","Male",14,"[10 - 15)",0,"Son or daughter in law",0,"Never married/lived together","Kikuyu",0,
+"KNBOM32","62134424394500000","Male",47,"[45 - 50)",1,"Household head",1,"Married/living together","Kikuyu",2,1
+"KNBOM32","62134424842100000","Female",35,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Kikuyu",2,1
+"KNBOM32","62135832954100000","Female",14,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Kikuyu",,
+"KNBOM32","62135827399200000","Male",22,"[20 - 25)",1,"Son or daughter in law",0,"Never married/lived together","Kikuyu",,
+"KNBOM32","62135827387900000","Male",14,"[10 - 15)",0,"Son or daughter in law",0,"Never married/lived together","Kikuyu",,
+"KNBOM32","62134425168900000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM33","62134426712200000","Male",21,"[20 - 25)",1,"Household head",1,"Never married/lived together","Kikuyu",,
+"KNBOM33","62134426854000000","Female",64,"[60 - 65)",1,"Grandparent",0,"Never married/lived together","Kikuyu",3,1
+"KNBOM33","62134427055700000","Male",28,"[25 - 30)",1,"Brother or sister",0,"Never married/lived together","Kikuyu",0,0
+"KNBOM33","62134426970000000","Male",14,"[10 - 15)",0,"Brother or sister",0,"Never married/lived together","Kikuyu",0,0
+"KNBOM36","62134495077000000","Female",43,"[40 - 45)",1,"Household head",1,"Separated/divorced","Luo",2,2
+"KNBOM36","62138138642000000","Female",26,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Luo",1,0
+"KNBOM36","62134495455400000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM36","62134495329300000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM36","62137360940700000","Female",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luo",,0
+"KNBOM37","62134441743000000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM37","62134441621600000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM37","62134433909100000","Female",33,"[30 - 35)",1,"Household head",1,"Separated/divorced","Luo",5,0
+"KNBOM37","62134434121000000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM37","62134441363200000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM37","62134441519600000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM38","62134441154500000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM38","62134432486500000","Male",21,"[20 - 25)",1,"Foster or adopted child",0,"Never married/lived together","Kikuyu",,
+"KNBOM38","62134432808300000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM38","62134432333800000","Male",41,"[40 - 45)",1,"Household head",1,"Married/living together","Kikuyu",4,0
+"KNBOM38","62134441093400000","Male",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM38","62134432608900000","Female",23,"[20 - 25)",1,"Foster or adopted child",0,"Never married/lived together","Kikuyu",,
+"KNBOM38","62134432136100000","Female",35,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Kikuyu",4,0
+"KNBOM38","62138061937900000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",0,
+"KNBOM38","62134432708600000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM39","62134433461500000","Male",29,"[25 - 30)",1,"Household head",1,"Never married/lived together","Luo",0,1
+"KNBOM40","62134443380600000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM40","62134443145200000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM40","62134443232900000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM40","62134442821300000","Female",31,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kikuyu",3,0
+"KNBOM40","62134443073700000","Male",38,"[35 - 40)",1,"Household head",1,"Married/living together","Kikuyu",3,0
+"KNBOM42","62134580884000000","Female",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luo",,
+"KNBOM42","62136065317200000","Male",18,"[15 - 20)",1,"Niece or nephew",0,"Never married/lived together","Luo",,
+"KNBOM42","62137637170200000","Male",67,"[65+]",0,"Husband or wife",0,"Married/living together","Luo",4,0
+"KNBOM42","62134633852700000","Female",16,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luo",,
+"KNBOM42","62137284721800000","Male",0,"[0 - 5)",0,,0,"Never married/lived together","Luo",,
+"KNBOM42","62134634082400000","Female",17,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luo",,
+"KNBOM42","62134633718400000","Male",20,"[20 - 25)",1,"Grandchild",0,"Never married/lived together","Luo",,
+"KNBOM42","62134581024800000","Female",36,"[35 - 40)",1,"Son or daughter",0,"Widowed","Luo",4,0
+"KNBOM42","62134634052600000","Female",13,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KNBOM42","62134581588100000","Female",34,"[30 - 35)",1,"Son or daughter",0,"Widowed","Luo",3,0
+"KNBOM42","62134581774100000","Female",21,"[20 - 25)",1,"Niece or nephew",0,"Married/living together","Luo",,
+"KNBOM42","62134580482100000","Female",62,"[60 - 65)",1,"Household head",1,"Married/living together","Luo",5,2
+"KNBOM42","62136065326300000","Male",40,"[40 - 45)",1,"Son or daughter",0,"Separated/divorced","Luo",0,2
+"KNBOM42","62134634063800000","Female",14,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KNBOM50","62134381483200000","Female",37,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Kikuyu",2,1
+"KNBOM50","62134381230800000","Female",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM50","62134520172600000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KNBOM50","62134380879000000","Male",43,"[40 - 45)",1,"Household head",1,"Married/living together","Kikuyu",2,1
+"KNBOM50","62134381353100000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KVIHC02","59134389306700000","Female",35,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",3,0
+"KVIHC02","59134389653500000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC02","59134389484000000","Male",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC02","59134389737100000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC03","59134429250600000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC03","59134425495000000","Female",36,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",4,1
+"KVIHC03","59134429348500000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC03","59134429159600000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC03","59134429439100000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC04","59134400026600000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC04","59134400015400000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC04","59134399970100000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC04","59134399785800000","Female",31,"[30 - 35)",1,"Household head",1,"Married/living together","Luhya",4,0
+"KVIHC04","59134400020100000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC05","59134365334100000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC05","59134365234400000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC05","59134364992800000","Female",34,"[30 - 35)",1,"Household head",1,"Married/living together","Luhya",4,1
+"KVIHC05","59134365341100000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC05","59134365347000000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC05","59136677984600000","Male",43,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Luhya",4,1
+"KVIHC06","59135772457700000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC06","59134381969800000","Female",33,"[30 - 35)",1,"Household head",1,"Never married/lived together","Luhya",0,1
+"KVIHC08","59134399146100000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC08","59134399421400000","Female",20,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Luhya",3,0
+"KVIHC08","59134399057300000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC08","59134398835800000","Female",76,"[65+]",0,"Parent (mother or father)",0,"Widowed","Luhya",1,4
+"KVIHC08","59134399136200000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC08","59134399259500000","Male",30,"[30 - 35)",1,"Household head",1,"Married/living together","Luhya",3,0
+"KVIHC09","59134331053600000","Female",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC09","59134322355000000","Female",69,"[65+]",0,"Household head",1,"Widowed","Luhya",1,3
+"KVIHC09","59134331302500000","Male",5,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC09","59134331387900000","Female",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC09","59134330843500000","Male",17,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC09","59134331183000000","Male",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC10","59134337065400000","Female",41,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Luhya",3,2
+"KVIHC10","59134337638500000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC10","59134337735400000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC10","59134337347700000","Male",53,"[50 - 55)",1,"Household head",1,"Married/living together","Luhya",3,1
+"KVIHC10","59134337489100000","Female",14,"[10 - 15)",0,"Foster or adopted child",0,"Never married/lived together","Luhya",,
+"KVIHC11","59134312157700000","Female",58,"[55 - 60)",1,"Household head",1,"Widowed","Luhya",1,5
+"KVIHC11","59134312565300000","Female",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC11","59134312819600000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC12","59134374355500000","Male",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC12","111137234966200000","Male",5,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC12","59134373356900000","Female",56,"[55 - 60)",1,"Household head",1,"Widowed","Luhya",0,0
+"KVIHC13","59134372308300000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC13","59134372442200000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC13","59134373225000000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC13","59134372098700000","Female",36,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Luhya",8,0
+"KVIHC13","59134376278200000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC13","59134373302900000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC13","59134373019700000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC13","59134372711600000","Female",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC13","59134376357200000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC13","59134373093800000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC13","59134372493300000","Male",48,"[45 - 50)",1,"Household head",1,"Married/living together","Luhya",9,0
+"KVIHC14","59134320315400000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC14","59134320179800000","Male",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC14","59134319827600000","Female",49,"[45 - 50)",1,"Household head",1,"Married/living together","Kalenjin",3,3
+"KVIHC14","59134320427100000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC15","59134393148900000","Male",73,"[65+]",0,"Household head",1,"Married/living together","Luhya",2,3
+"KVIHC15","59134394927200000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC15","59134394840800000","Male",23,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC15","59134395019500000","Female",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC15","59134390567400000","Female",71,"[65+]",0,"Husband or wife",0,"Married/living together","Luhya",2,3
+"KVIHC16","59134424421000000","Female",12,"[10 - 15)",0,"Step son or step daughter",0,"Never married/lived together","Luhya",,
+"KVIHC16","59134423954300000","Female",39,"[35 - 40)",1,"Household head",1,"Married/living together","Luo",,
+"KVIHC16","59134424411200000","Male",14,"[10 - 15)",0,"Step son or step daughter",0,"Never married/lived together","Luhya",,
+"KVIHC16","59134424430800000","Female",9,"[5 - 10)",0,"Step son or step daughter",0,"Never married/lived together","Luhya",,
+"KVIHC16","59134424235200000","Female",17,"[15 - 20)",1,"Step son or step daughter",0,"Never married/lived together","Luhya",,
+"KVIHC17","59134338863000000","Female",64,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Luhya",1,3
+"KVIHC17","59134348790700000","Female",13,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC17","59134339282300000","Male",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC17","59134339235800000","Male",15,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC17","59134339024900000","Male",69,"[65+]",0,"Household head",1,"Never married/lived together","Luhya",1,3
+"KVIHC17","59134348691400000","Female",11,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC17","59134338574600000","Female",31,"[30 - 35)",1,"Son or daughter",0,"Separated/divorced","Luhya",0,0
+"KVIHC18","59134414360800000","Female",25,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Luhya",1,0
+"KVIHC18","59134397868300000","Female",54,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Luhya",2,3
+"KVIHC18","59134405409900000","Male",57,"[55 - 60)",1,"Household head",1,"Married/living together","Luhya",2,3
+"KVIHC18","59134414367200000","Female",5,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC18","59134414693500000","Female",6,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC18","59134414545700000","Female",11,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC18","59134414389900000","Male",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC19","59134329186600000","Female",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC19","59134327942800000","Male",87,"[65+]",0,"Household head",1,"Married/living together","Luhya",1,12
+"KVIHC19","59134328945900000","Female",9,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC19","59134328669500000","Female",31,"[30 - 35)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC19","59134328466300000","Female",72,"[65+]",0,"Husband or wife",0,"Married/living together","Luhya",1,3
+"KVIHC20","59134390178600000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC20","59134389987000000","Female",46,"[45 - 50)",1,"Husband or wife",0,"Never married/lived together","Luhya",3,2
+"KVIHC20","59134395219800000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC20","59134395333100000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC20","59134390309500000","Male",51,"[50 - 55)",1,"Household head",1,"Never married/lived together","Luhya",3,2
+"KVIHC21","59134384292500000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC21","59134382671100000","Male",24,"[20 - 25)",1,"Son or daughter",0,"Married/living together","Luhya",1,0
+"KVIHC21","59134382992200000","Male",4,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC21","59134382783100000","Female",19,"[15 - 20)",1,"Son or daughter in law",0,"Married/living together","Luhya",2,0
+"KVIHC21","59135779798900000","Male",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC21","59134382227900000","Female",46,"[45 - 50)",1,"Household head",1,"Widowed","Luhya",2,2
+"KVIHC21","59134382487600000","Female",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC22","59135935821300000","Female",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC22","59134363260000000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC22","59137084186700000","Female",16,"[15 - 20)",1,,0,"Never married/lived together","Luhya",,
+"KVIHC22","59134362971600000","Female",22,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",1,0
+"KVIHC22","59134363019700000","Female",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC22","59134363111300000","Male",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC22","59134362693600000","Female",46,"[45 - 50)",1,"Household head",1,"Married/living together","Luhya",4,4
+"KVIHC23","59134391227800000","Male",38,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",,
+"KVIHC23","59134391035200000","Female",34,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Luhya",,
+"KVIHC25","59134364180200000","Female",62,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Luhya",0,7
+"KVIHC25","59134364678900000","Male",14,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC25","59134364519500000","Male",66,"[65+]",0,"Household head",1,"Married/living together","Luhya",0,7
+"KVIHC25","59134364403200000","Male",18,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC26","59134330368900000","Male",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC26","59134329488400000","Female",51,"[50 - 55)",1,"Household head",1,"Widowed","Luhya",2,6
+"KVIHC26","59134330254400000","Male",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC26","59135495790900000","Female",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,0
+"KVIHC26","59134329844100000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC26","59134330102500000","Female",24,"[20 - 25)",1,"Son or daughter in law",0,"Married/living together","Kisii",2,0
+"KVIHC26","59134330457200000","Female",27,"[25 - 30)",1,"Son or daughter",0,"Separated/divorced","Luhya",1,0
+"KVIHC26","59134330598500000","Female",2,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC28","59136393602400000","Female",13,"[10 - 15)",0,"Aunt or uncle",0,"Never married/lived together","Luhya",,
+"KVIHC28","59134389021400000","Female",21,"[20 - 25)",1,"Son or daughter",0,"Married/living together","Luhya",1,0
+"KVIHC28","59134388500400000","Female",42,"[40 - 45)",1,"Household head",1,"Married/living together","Luhya",2,0
+"KVIHC28","59134397110200000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC28","59134397224700000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC28","59134388839200000","Female",6,"[5 - 10)",0,"Foster or adopted child",0,"Never married/lived together","Luhya",,
+"KVIHC28","59134388927700000","Male",10,"[10 - 15)",0,"Foster or adopted child",0,"Never married/lived together","Luhya",,
+"KVIHC28","59134388713500000","Female",77,"[65+]",0,"Mother or farther in law",0,"Widowed","Luhya",0,2
+"KVIHC29","59134423452600000","Female",27,"[25 - 30)",1,"Son or daughter in law",0,"Married/living together","Luo",0,0
+"KVIHC29","59134423416900000","Male",59,"[55 - 60)",1,"Household head",1,"Married/living together","Luhya",0,0
+"KVIHC29","59134423101700000","Female",50,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Luhya",0,5
+"KVIHC29","59134423595500000","Male",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC29","59135209695700000","Male",11,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC30","59136142596200000","Female",23,"[20 - 25)",1,"Grandchild",0,"Separated/divorced",,,
+"KVIHC30","59134381475600000","Male",74,"[65+]",0,"Household head",1,"Married/living together","Luhya",0,9
+"KVIHC30","59136372001000000","Male",4,"[0 - 5)",0,"Grandchild",0,"Never married/lived together",,,
+"KVIHC30","59134381215900000","Female",70,"[65+]",0,"Husband or wife",0,"Married/living together","Luhya",0,9
+"KVIHC31","59134363925400000","Male",7,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC31","59136841980500000","Female",14,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC31","59134363827300000","Male",11,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC31","59134363701600000","Female",33,"[30 - 35)",1,"Son or daughter",0,"Separated/divorced","Luhya",2,0
+"KVIHC31","59135815875900000","Female",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC31","59134363516700000","Female",58,"[55 - 60)",1,"Household head",1,"Widowed","Luhya",1,4
+"KVIHC32","59134379470300000","Female",50,"[50 - 55)",1,"Household head",1,"Widowed","Luo",2,2
+"KVIHC32","59134379935600000","Male",22,"[20 - 25)",1,"Niece or nephew",0,"Never married/lived together","Luo",,
+"KVIHC32","111137109718100000","Male",8,"[5 - 10)",0,"Friend or neighbor",0,"Never married/lived together","Luhya",,
+"KVIHC32","59134379744000000","Female",22,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC32","59134388055700000","Female",4,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luo",,
+"KVIHC32","59135418664400000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC33","59134338283400000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC33","59134349543600000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC33","59134338069600000","Male",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC33","59134338164800000","Male",16,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC33","59134337917700000","Female",39,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",5,0
+"KVIHC33","59134338415100000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC34","59134380191400000","Female",44,"[40 - 45)",1,"Household head",1,"Married/living together","Luhya",5,4
+"KVIHC34","59134381055000000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC34","59134380768900000","Male",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC34","59134380537400000","Male",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC34","59134380976500000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC34","59134380876100000","Male",20,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC35","59134311856300000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC35","59134311227800000","Female",31,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Luhya",3,0
+"KVIHC35","59134311651200000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC35","59134311451700000","Male",18,"[15 - 20)",1,,0,"Never married/lived together","Luhya",,
+"KVIHC35","59134311757400000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHC35","59134310880900000","Male",38,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",3,1
+"KVIHC36","59134371497400000","Male",72,"[65+]",0,"Household head",1,"Married/living together","Luhya",0,3
+"KVIHC36","59134371740300000","Female",15,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHC36","59134371287500000","Female",61,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Luhya",1,2
+"KVIHK01","60134423120200000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK01","60134423025500000","Female",28,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",4,0
+"KVIHK01","60134423336400000","Female",10,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Luhya",,
+"KVIHK01","60134423190400000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK01","60134423294900000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK01","60134423242700000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK01","60134423402600000","Male",32,"[30 - 35)",1,"Household head",1,"Married/living together","Luhya",4,0
+"KVIHK02","60134319778400000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK02","60134319771800000","Male",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK02","60134319396200000","Female",23,"[20 - 25)",1,"Household head",1,"Married/living together","Luhya",5,0
+"KVIHK02","60134319760200000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK02","60134319749300000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK02","60134319647800000","Female",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK05","60134371511600000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK05","60134371357700000","Female",28,"[25 - 30)",1,"Household head",1,"Married/living together","Luhya",2,0
+"KVIHK05","60134371443800000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK06","60134379835600000","Female",24,"[20 - 25)",1,"Household head",1,"Widowed","Luhya",0,0
+"KVIHK06","60134380012300000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK07","60134319997900000","Male",30,"[30 - 35)",1,"Household head",1,"Married/living together","Luhya",5,0
+"KVIHK07","60135836279000000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK07","60134320320200000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Married/living together","Luhya",,
+"KVIHK07","60134320297300000","Female",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK07","60134320188800000","Female",28,"[25 - 30)",1,"Husband or wife",0,"Married/living together","Luhya",5,0
+"KVIHK07","60134320309800000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK09","60134570891500000","Male",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK09","60134570939600000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK09","60134571048100000","Male",94,"[65+]",0,"Husband or wife",0,"Married/living together","Luhya",0,20
+"KVIHK09","60134451225400000","Female",77,"[65+]",0,"Household head",1,"Married/living together","Luhya",0,7
+"KVIHK09","60134570806400000","Male",15,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK09","60134570747900000","Female",12,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK09","60134451677200000","Male",17,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK09","60134570907800000","Male",17,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK09","60134451233900000","Female",18,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",1,
+"KVIHK09","60134570851000000","Male",14,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK10","60134434472300000","Female",26,"[25 - 30)",1,"Husband or wife",0,"Never married/lived together","Luhya",3,0
+"KVIHK10","60134511272100000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK10","60134511367700000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK10","60134434497000000","Male",33,"[30 - 35)",1,"Household head",1,"Married/living together","Luhya",3,0
+"KVIHK10","60134511359700000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK10","60136695220400000","Female",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK11","60134449147100000","Male",3,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK11","60134449138400000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK11","60134448564700000","Male",28,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Luhya",0,4
+"KVIHK11","60134448555800000","Female",60,"[60 - 65)",1,"Household head",1,"Widowed","Luhya",2,6
+"KVIHK11","60134448546700000","Male",24,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK13","60134398932000000","Male",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK13","60134399079300000","Male",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK13","60134398862700000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK13","60134398683400000","Male",38,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",4,1
+"KVIHK13","60134399137700000","Female",38,"[35 - 40)",1,"Husband or wife",0,"Married/living together","Luhya",4,1
+"KVIHK13","60134399003700000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK14","60134365404000000","Female",22,"[20 - 25)",1,"Brother or sister in law",0,"Married/living together","Luhya",1,0
+"KVIHK14","60134365723500000","Female",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK14","60134365662900000","Female",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK14","60134365589100000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK14","60134365798400000","Female",26,"[25 - 30)",1,"Household head",1,"Married/living together","Luhya",2,0
+"KVIHK14","60134365530100000","Female",0,"[0 - 5)",0,"Niece or nephew",0,"Never married/lived together","Luhya",,
+"KVIHK15","60134381107100000","Female",11,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK15","60134381261200000","Female",66,"[65+]",0,"Husband or wife",0,"Married/living together","Luhya",0,9
+"KVIHK15","60134381194800000","Male",9,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK15","60134381014900000","Male",73,"[65+]",0,"Household head",1,"Married/living together","Luhya",0,0
+"KVIHK15","60136194901100000","Male",16,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK16","60134389948600000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK16","60134389742200000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK16","60134389848300000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK16","60134389594300000","Female",36,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",3,1
+"KVIHK17","60134382626500000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK17","60134382470000000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK17","60134382168100000","Male",65,"[65+]",0,"Household head",1,"Married/living together","Luhya",4,3
+"KVIHK17","60134382549000000","Female",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK17","60134382687600000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK17","60134382361100000","Female",42,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Luhya",4,2
+"KVIHK18","60134347683000000","Female",55,"[55 - 60)",1,"Husband or wife",0,"Married/living together","Luhya",1,6
+"KVIHK18","60134347946200000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK18","60134347482000000","Male",65,"[65+]",0,"Household head",1,"Married/living together","Luhya",1,7
+"KVIHK18","60134347866200000","Female",24,"[20 - 25)",1,"Son or daughter in law",0,"Married/living together","Luhya",1,0
+"KVIHK18","60134347769700000","Male",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK19","60134337212700000","Female",60,"[60 - 65)",1,"Husband or wife",0,"Married/living together","Luhya",0,4
+"KVIHK19","60134337304900000","Female",2,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK19","60134337376400000","Female",20,"[20 - 25)",1,"Son or daughter in law",0,"Married/living together","Luhya",1,0
+"KVIHK19","60134336915700000","Male",65,"[65+]",0,"Household head",1,"Married/living together","Luhya",0,0
+"KVIHK20","60134397695300000","Female",60,"[60 - 65)",1,"Parent (mother or father)",0,"Widowed","Luhya",1,3
+"KVIHK20","60134397334500000","Female",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK20","60134397405500000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK20","60134397612400000","Male",2,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK20","60134397475300000","Male",10,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK20","60134397551000000","Female",4,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK20","60134397669600000","Male",36,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",5,0
+"KVIHK20","60134397255200000","Female",34,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Luhya",5,0
+"KVIHK21","60134398375600000","Male",7,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK21","60134398085800000","Male",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK21","60134397957600000","Female",43,"[40 - 45)",1,"Household head",1,"Widowed","Luhya",4,2
+"KVIHK21","60134398310700000","Female",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK21","60134398182300000","Male",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK22","60134424205300000","Male",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK22","60134423749000000","Female",49,"[45 - 50)",1,"Household head",1,"Widowed","Kalenjin",2,4
+"KVIHK22","60134423962200000","Male",36,"[35 - 40)",1,"Son or daughter",0,"Married/living together","Luhya",0,0
+"KVIHK22","60134424320400000","Male",5,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK22","60134424387000000","Male",0,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK22","60134424067100000","Male",35,"[35 - 40)",1,"Son or daughter",0,"Separated/divorced","Luhya",1,2
+"KVIHK22","60134424129200000","Female",26,"[25 - 30)",1,"Son or daughter in law",0,"Married/living together","Luhya",1,3
+"KVIHK23","60134388680600000","Male",45,"[45 - 50)",1,"Household head",1,"Married/living together","Luhya",,
+"KVIHK23","60134388870700000","Female",44,"[40 - 45)",1,"Husband or wife",0,"Married/living together","Luhya",0,1
+"KVIHK24","60134373050200000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK24","60134372586100000","Female",57,"[55 - 60)",1,"Household head",1,"Widowed","Luhya",0,3
+"KVIHK24","60134373200600000","Male",12,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK24","60134372759400000","Female",30,"[30 - 35)",1,"Son or daughter in law",0,"Married/living together","Luhya",2,0
+"KVIHK24","60134373261400000","Female",12,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK24","60134372834900000","Female",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK24","60134372960800000","Female",22,"[20 - 25)",1,"Son or daughter in law",0,"Married/living together","Luhya",1,0
+"KVIHK24","60134373110200000","Male",13,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK24","60134372909300000","Male",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK26","60134431800800000","Male",94,"[65+]",0,"Parent (mother or father)",0,"Widowed","Luhya",0,6
+"KVIHK26","60134432160300000","Female",9,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK26","60134431991600000","Female",40,"[40 - 45)",1,"Household head",1,"Widowed","Luhya",0,1
+"KVIHK26","60134432167800000","Female",13,"[10 - 15)",0,"Niece or nephew",0,"Never married/lived together","Luhya",,
+"KVIHK26","60134432180100000","Male",25,"[25 - 30)",1,"Step son or step daughter",0,"Never married/lived together","Luhya",,
+"KVIHK29","60134363207500000","Male",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK29","60134363427700000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK29","60134363493400000","Male",9,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK29","60134363304900000","Male",15,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK29","60134363368800000","Female",14,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK29","60134363109500000","Female",49,"[45 - 50)",1,"Husband or wife",0,"Married/living together",,5,1
+"KVIHK29","60134362920000000","Male",54,"[50 - 55)",1,"Household head",1,"Married/living together","Luhya",5,2
+"KVIHK30","60135227681100000","Female",25,"[25 - 30)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK30","60134322293100000","Female",10,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK30","60134322391300000","Male",59,"[55 - 60)",1,"Household head",1,"Married/living together","Luhya",0,5
+"KVIHK30","60134322152600000","Female",51,"[50 - 55)",1,"Husband or wife",0,"Married/living together","Luhya",0,5
+"KVIHK31","60136096137100000","Male",6,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK31","60134372156700000","Female",14,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK31","60135884252000000","Female",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK31","60134372070200000","Male",19,"[15 - 20)",1,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK31","60136095980800000","Female",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK31","60134371809800000","Male",32,"[30 - 35)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK31","60134372215900000","Male",12,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK31","60134372285200000","Female",11,"[10 - 15)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK31","60134371895700000","Female",72,"[65+]",0,"Household head",1,"Widowed","Luhya",1,7
+"KVIHK32","60134338584200000","Female",48,"[45 - 50)",1,"Household head",1,"Widowed","Luhya",3,3
+"KVIHK32","60134338922500000","Female",6,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK32","60134338834600000","Male",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK32","60134338982800000","Female",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK32","60134338737500000","Male",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK32","60134339058500000","Female",1,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK33","60134380559700000","Male",17,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK33","60134380795300000","Female",19,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK33","60134380706500000","Female",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK33","60134380370600000","Female",50,"[50 - 55)",1,"Household head",1,"Married/living together","Luhya",4,3
+"KVIHK33","60134380643200000","Female",12,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK34","60134434230600000","Female",2,"[0 - 5)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK34","60134434026200000","Female",18,"[15 - 20)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK34","60134389236400000","Male",24,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK34","60134433892200000","Female",50,"[50 - 55)",1,"Household head",1,"Married/living together","Luhya",,
+"KVIHK34","60134434132900000","Female",8,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK34","60134434085400000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK36","60134364877000000","Male",27,"[25 - 30)",1,"Household head",1,"Married/living together","Luhya",2,0
+"KVIHK36","60134365109700000","Female",12,"[10 - 15)",0,"Brother or sister in law",0,"Never married/lived together","Luhya",,
+"KVIHK36","60138507937600000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK36","60134364950200000","Male",5,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK36","60134364733800000","Female",23,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Luhya",2,0
+"KVIHK36","60138508128900000","Male",0,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK36","60134365049300000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK38","60134406343100000","Female",6,"[5 - 10)",0,"Grandchild",0,"Never married/lived together","Luhya",,
+"KVIHK38","60134406421700000","Male",21,"[20 - 25)",1,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK38","60134406137900000","Female",52,"[50 - 55)",1,"Household head",1,"Married/living together","Luhya",1,3
+"KVIHK39","60134424910700000","Male",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK39","60134425127300000","Male",11,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK39","60134424754100000","Female",35,"[35 - 40)",1,"Household head",1,"Married/living together","Luhya",0,0
+"KVIHK40","60134547419200000","Male",31,"[30 - 35)",1,"Household head",1,"Married/living together","Luhya",2,1
+"KVIHK40","60134543832000000","Female",30,"[30 - 35)",1,"Husband or wife",0,"Married/living together","Kamba",2,0
+"KVIHK40","60134543945100000","Male",8,"[5 - 10)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KVIHK40","60134543950400000","Female",3,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Luhya",,
+"KZIMA04","89136428585200000","Female",37,"[35 - 40)",1,"Household head",1,"Widowed","Kikuyu",1,1
+"KZIMA04","89136428764400000","Female",13,"[10 - 15)",0,"Son or daughter",0,"Never married/lived together","Kikuyu",,
+"KZIMA05","89136369003600000","Female",48,"[45 - 50)",1,"Household head",1,"Widowed","Kikuyu",0,1
+"KZIMA08","89137058566800000","Female",21,"[20 - 25)",1,"Husband or wife",0,"Married/living together","Kamba",1,0
+"KZIMA08","89136376471200000","Male",26,"[25 - 30)",1,"Household head",1,"Married/living together","Embu",0,1
+"KZIMA08","89137058618900000","Female",1,"[0 - 5)",0,"Son or daughter",0,"Never married/lived together","Embu",,
