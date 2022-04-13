@@ -19,3 +19,5 @@ official.csv
 ohc1
 depVar
 ohc2
+*.csv
+clean_data/ohc3df
