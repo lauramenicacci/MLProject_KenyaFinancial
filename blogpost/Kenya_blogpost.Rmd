@@ -11,14 +11,14 @@ creative_commons: CC BY
 repository_url: https://github.com/lauramenicacci/MLProject_KenyaFinancial
 output: 
   html_document: 
-    self_contained: false
+  df_print: paged
+  highlight: tango
+  theme: cosmo
+  self_contained: false
 bibliography: bibliography.bib
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
-
-# Load dependencies 
-library(reticulate) # For rendering Python code 
 ```
 
 ## Abstract 
@@ -28,11 +28,11 @@ by giving them access to formal financial services. While M-Pesa has a potential
 
 This study runs explainable machine learning algorithms on the Kenya Financial Diaries, a high-frequency financial transaction dataset. The best algorithm, which is the Random Forest classifier, is able to predict the transaction method for a given transaction with a 98.52% accuracy and an MCC of 93.55%. The main predictors of mobile money transactions were transactions related to: remittances, telecom providers, monthly consumption and income measures as well as mental and physical health characteristics. These findings contribute to a greater understanding of the financial lives of low-income Kenyans. 
 
-## Introduction
+## Background
 
 As of 2015, 35% of the over 50 million people living in Kenya live below the poverty line. Understanding the determinants of poverty in Kenya may help policy makers to create more targeted policies to help the most financially vulnerable population. In particular, the mobile money service M-Pesa has enabled most poor Kenyans to access formal financial services seen its introduction in 2007. 
 While mobile money has been hailed as a beacon that could help many poor Kenyans out of poverty, the mechanism of how M-Pesa helps poor households is less known. Our study uncovers some of these mechanism by investigating which transaction characteristics predict whether it was done/completed by mobile money, cash or another transaction method. 
-Most Kenyans do not have access to (traditional) formal financial services, such as a bank account, and the pre-2007 Kenyan economy was mainly characterized by a transfer economy, operating through cash and informal transfers, such as trade and barter. As of 2013, 74% of the Kenyan population above 15-years-old had a mobile money account. As can demonstrated in the figure below, Kenya has (by far) the highest proportion of adults with a mobile money account.  M-Pesa is therefore presented with a certain level of fanfare and promise for its ability to give people traditionally marginalized people access to formal financial services. Research in 2016 predicted that M-Pesa has lifted 2% of Kenyan households out of poverty[@Navi2014]. 
+Most Kenyans do not have access to (traditional) formal financial services, such as a bank account, and the pre-2007 Kenyan economy was mainly characterized by a transfer economy, operating through cash and informal transfers, such as trade and barter. As of 2013, 74% of the Kenyan population above 15-years-old had a mobile money account. As can demonstrated in the figure below, Kenya has (by far) the highest proportion of adults with a mobile money account.  M-Pesa is therefore presented with a certain level of fanfare and promise for its ability to give people traditionally marginalized people access to formal financial services. Research in 2016 predicted that M-Pesa has lifted 2% of Kenyan households out of poverty [@Navi2014]. 
 
 
 ::: {#what .is .M-Pesa style="color: green;"}
@@ -44,16 +44,16 @@ Though app-based cash transfer systems such as PayPal and CashApp are becoming m
 
 ## Related Work 
 
-In ”Mobile Banking: The Impact of M-Pesa in Kenya,” Mbiti and Weil (2016) detail the history of M-Pesa. They
-describe the pre-MPesa (before 2007) transfer economy as mainly operating through cash and informal transfers, such as trade and barter. The available cash transfer services,such as Western Union were prohibitively expensive. But M-Pesa has allowed for users to send smaller amounts more frequently, offering necessary sources of cash, especially in rural areas (Morawczynski and Pickens 2009).
+In ”Mobile Banking: The Impact of M-Pesa in Kenya,” [@Mbiti_Weil_2011] detail the history of M-Pesa. They
+describe the pre-MPesa (before 2007) transfer economy as mainly operating through cash and informal transfers, such as trade and barter. The available cash transfer services,such as Western Union were prohibitively expensive. But M-Pesa has allowed for users to send smaller amounts more frequently, offering necessary sources of cash, especially in rural areas [@Morawczynski_2009].
 Therefore, mobile money services have also been considered a powerful tool for poverty reduction. In particular,
-low transaction fees have enabled poor households to tap into a larger network of relatives and friends when requesting financial assistance to overcome sudden income shocks [@JackandSuri2014]. Jack and Suri (2014) [@JackandSuri2014] estimate that households receiving mobile money remittances in Kenya were able to offset a negative income shock, while households without access to mobile money suffered a consumption drop of 7% on average.
+low transaction fees have enabled poor households to tap into a larger network of relatives and friends when requesting financial assistance to overcome sudden income shocks [@JackandSuri2014]. Jack and Suri(2014) estimate that households receiving mobile money remittances in Kenya were able to offset a negative income shock, while households without access to mobile money suffered a consumption drop of 7% on average.
 The Financial Diaries tracked these developments in real time. It tracked all transactions made by 298 low-income
 households in Kenya between July 2012 and December 2013, making this dataset an ideal source of data to predict mobile money usage and analyse the conditions under which transaction take place.
 
 ## Methods and tools
 
-We figured that, by employing some of the usual of machine learning, such as logistic regression, ridge regression, Decision Trees, support vector machines, and Random Forests, we could find a classification algorithm for best predicting modes of transactions, in terms of whether mobile money was used or not. Furthermore, the machine learning algorithms named above are interpretable! That means, we could use them to understand which feature are important to predict the usage of mobile money.
+We figured that, by employing some of the usual of machine learning, such as logistic regression, ridge regression, decision trees, support vector machines, and random rorests, we could find a classification algorithm for best predicting modes of transactions, in terms of whether mobile money was used or not. Furthermore, the machine learning algorithms named above are interpretable! That means, we could use them to understand which feature are important to predict the usage of mobile money.
 Keeping in mind that our classes were strongly imbalanced, we used four evaluation metrics to check on the prediction performance on the differently distributed categories: Accuracy (the classical one), F1 score, the Matthew’s correlation coefficient and the ROC-AUC score. With these four measures, we were able to understand which model was performing better in predicting minority classes as the mobile money one, despite the high numbers given by the accuracy score, that could happen to be misleading. 
 For the baseline, we used a Random Rate Classifier, which is just a fancy name for just guessing the class. Since the classes were unbalanced, we weighted the guessed classes according to their relative frequencies in the training data.
 
@@ -68,7 +68,7 @@ knitr::include_graphics("./tree.png")
 This image is just a sample, in reality the generated tree was far deeper and had many more nodes.
 When training the Decision Tree, a tradeoff had to be made in terms of tree depth; deeper trees had greater space and time complexity, while also being more accurate. However, trees that were too deep would be less accurate, since they would be overfit on the training data. Hence, we calculated metrics for trees of different depths, evaluated on a previously unseen validation set.
 
-```{r fig2, eval = TRUE, echo = FALSE, out.width = '65%', fig.cap = "Decision Tree performance", fig.align = 'center'}
+```{r fig2, eval = TRUE, echo = FALSE, out.width = '60%', fig.cap = "Decision Tree performance", fig.align = 'center'}
 knitr::include_graphics("./treeDepthsbar.png")
 ```
 
@@ -82,23 +82,20 @@ Our project was able to detect the most important features that predict a mobile
 
 ## Analysis 
 
-```{r fig4, eval = TRUE, echo = FALSE, out.width = '70%', fig.cap = "ROC-AUC Curve for the best two models with a selected sample", fig.align = 'center'}
+```{r fig4, eval = TRUE, echo = FALSE, out.width = '60%', fig.cap = "ROC-AUC Curve for the best two models with a selected sample", fig.align = 'center'}
 knitr::include_graphics("./ROC_Final.png")
 ```
 
 The figure above represents the final output of this project. In this plot, we recoded the target variable (payment method) using a one-vs-all strategy. We wanted to understand how the model could behave in predicting only
-one of these classes, mobile money, as such class has always represented the goal of our research question. We plotted the ROCAUC curve for our two best models, namely the Random Forest with 25 trees and the Decision Tree with a depth of
-50. We chose the best performing decision tree, and the number of tree that acted like a cutoff in our GridSearch
-training for such models. We observed indeed that after 25 trees, the model wasn’t improving significantly as before.
-7
-As plotted in Table 2, the performance of these two models, according to the ROC-AUC score, is clearly the best
-one. These two algorithms indeed were able to gain a high score even with such a strict metric. The ROC-AUC Curve
-plotted here reflects such performances also on the prediction of a class that is present in only the 2% of the data.
+one of these classes, mobile money, as such class has always represented the goal of our research question. 
+We plotted the ROCAUC curve for our two best models, namely the Random Forest with 25 trees and the Decision Tree with a depth of 50. We chose the best performing decision tree, and the number of trees in the Random Forest that acted like a cutoff in our GridSearch training. We observed indeed that after 25 trees, the model wasn’t improving significantly as before.
+
+According to the ROC-AUC score, the performance is outperforming for both of the models. These two algorithms indeed were able to gain a high score even with such a strict metric. The ROC-AUC Curve plotted here reflects such performances also on the prediction of a class that is present in only the 2% of the data.
 
 Two things are mostly important to notice when looking at such a graph. Firstly, the AUC (Area Under the Curve): the
 larger the area, the better the model will be in its true positive prediction rate. We notice that the Random Forest with 25 is slightly better than the Decision Tree, with a smoother curve. This latter one has indeed a strong change of direction at a specific point, meaning that after that threshold the model started to predict only false positives. Another important thing to observe in the ROC-AUC, is the steepness of the curves. We can say that both models reach the top left of the curve in a strikingly similar way.
 
-## Conclusion(s)
+## Conclusions
 
 This project predicted which transaction method Kenyan household use in different circumstance deploying machine learning algorithms on the Kenyan Financial Diaries data. 
 The Random Forest classifier outperformed all other models and achieved a ROC-AUC of 0.937. We were able to find the most important variables that predicted whether someone used M-Pesa or not, these included, remittances, telecom providers, monthly consumptions and income, and health. 
@@ -108,3 +105,5 @@ Future work could extend the analysis to financial diaries of other countries th
 
 We would like to thank FSD Kenya for providing the data online through its website and Harvard dataverse. We
 are also grateful to Eric Kolibacz for his advice during labs. We are also grateful for the countless advice we found online on multiple coding problems we ran into.
+
+## References
